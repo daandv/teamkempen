@@ -1,0 +1,22 @@
+[udesly-woo-add-to-cart] [udesly-data="loading"], [udesly-woo-add-to-cart] [udesly-data="added"] {
+    display: none;
+}
+
+[udesly-woo-add-to-cart].loading [udesly-data="loading"] {
+    display: block;
+}
+
+[udesly-woo-add-to-cart].added [udesly-data="added"] {
+    display: block;
+}
+
+a.udesly-woo-lightbox-trigger:not(.current) {
+    display: none;
+}
+[udesly-woo-product-thumbnail]:hover {
+    cursor: pointer;
+}
+
+.udesly-woocommerce-mini-cart-dummy-item {
+    display: none;
+}

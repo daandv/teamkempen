@@ -1,0 +1,467 @@
+/*---------------- PLUGIN ICONS ----------------*/
+@font-face {
+    font-family: 'udesly';
+    src:  url('../webfonts/udesly.eot?eglbfb');
+    src:  url('../webfonts/udesly.eot?eglbfb#iefix') format('embedded-opentype'),
+    url('../webfonts/udesly.ttf?eglbfb') format('truetype'),
+    url('../webfonts/udesly.woff?eglbfb') format('woff'),
+    url('../webfonts/udesly.svg?eglbfb#udesly') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+#toplevel_page_udesly_main_menu .wp-menu-image:before {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'udesly' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    content: "\e900";
+}
+
+
+/*---------------- TABS ----------------*/
+.cdg-woo-kit-tabs-component-wrapper{
+    display: flex;
+}
+
+.cdg-woo-kit-tabs-wrapper{
+    flex: 1;
+}
+
+.cdg-woo-kit-panels-wrapper{
+    flex: 3;
+}
+
+.cdg-woo-kit-tabs-wrapper{
+    background-color: #fafafa;
+}
+
+.cdg-woo-kit-panels-wrapper{
+    background-color: #ffffff;
+}
+
+.cdg-woo-kit-tabs-wrapper .cdg-woo-kit-tabs li{
+    padding: 10px;
+    margin-bottom: 0px;
+}
+
+.cdg-woo-kit-tabs .active{
+    background-color: #ffffff;
+    border-left: 3px solid #00a0d2;
+}
+
+.cdg-woo-kit-tabs li{
+    cursor: pointer;
+}
+
+.cdg-icon{
+    padding-right: 5px;
+}
+
+.cdg-woo-kit-panel{
+    padding: 5px 20px;
+}
+
+.cdg-woo-kit-panel{
+    display: none;
+}
+
+.cdg-woo-kit-panel.active{
+    display: block;
+}
+
+.cdg-woo-kit-tabs-wrapper .cdg-woo-kit-tabs {
+    margin: 0px;
+}
+
+.cdg-woo-kit-tabs-wrapper {
+    border-right: 1px solid #eeeeee;
+}
+
+/*---------------- FORM ----------------*/
+.cdg-woo-kit-form{
+    display: flex;
+    flex-flow: row wrap;
+    transform: translateX(10px);
+    margin: 20px 0px;
+}
+
+.cdg-woo-kit-form-field label, .cdg-woo-kit-form-field-wp-editor label {
+    display: block;
+}
+
+.cdg-woo-kit-form-field-wp-editor label{
+    margin: 10px 0px;
+}
+
+.cdg-woo-kit-form-field, .cdg-woo-kit-form-field-wp-editor {
+    flex: 1 0;
+    padding: 0px 20px 0px 0px;
+    margin-bottom: 10px;
+}
+
+@media screen and ( max-width: 779px){
+    .cdg-woo-kit-form-field, .cdg-woo-kit-form-field-wp-editor {
+        flex: 1 0;
+        flex-basis: 100%;
+        padding: 0px 20px 0px 0px;
+    }
+
+    .cdg-woo-kit-form{
+        transform: translateX(0px);
+    }
+}
+
+.cdg-woo-kit-form-field input, .cdg-woo-kit-form-field select, .cdg-woo-kit-form-field textarea {
+    margin: 10px 0px;
+    margin-bottom: 0px;
+    width: 100%;
+}
+
+.cdg-woo-kit-form-field select, .cdg-woo-kit-form-field .cdg-woo-kit-ui-datepicker, .cdg-woo-kit-form-field .cdg-woo-kit-ui-datetimepicker{
+    display: block;
+    width: unset;
+}
+
+.cdg-woo-kit-form-break-line{
+    flex-basis: 100%;
+    width: 0;
+    height: 0;
+    overflow: hidden;
+    margin: 0px;
+    margin-right: 20px;
+}
+
+.cdg-woo-kit-form-break-line-border{
+    flex-basis: 100%;
+    /*width: 0;*/
+    /*height: 0;*/
+    overflow: hidden;
+    border-bottom: 1px solid #eeeeee;
+    margin: 15px 0px;
+    margin-right: 20px;
+}
+
+.cdg-woo-kit-form-field-description{
+    font-size: 10px;
+}
+
+.cdg-woo-kit-form-field.checkbox, .cdg-woo-kit-form-field.radio{
+    margin-bottom: 0px;
+}
+
+.cdg-woo-kit-form-field.checkbox input, .cdg-woo-kit-form-field.radio input{
+    width: unset;
+    display: block;
+    float: left;
+}
+
+.cdg-woo-kit-form-field.checkbox label, .cdg-woo-kit-form-field.radio label{
+    padding: 8px 30px;
+}
+
+.cdg-woo-kit-form h1 {
+    padding-left: 0px !important;
+    font-size: 26px !important;
+}
+
+.cdg-woo-kit-form h2 {
+    padding-left: 0px !important;
+    font-size: 20px !important;
+}
+
+.cdg-woo-kit-form h3 {
+    padding-left: 0px !important;
+    font-size: 16px !important;
+}
+
+.cdg-woo-kit-form-switch-field {
+    overflow: hidden;
+}
+
+.cdg-woo-kit-form-switch-title {
+    margin-bottom: 10px;
+}
+
+.cdg-woo-kit-form-switch-field input {
+    position: absolute !important;
+    clip: rect(0, 0, 0, 0);
+    height: 1px;
+    width: 1px;
+    border: 0;
+    overflow: hidden;
+}
+
+.cdg-woo-kit-form-switch-field label {
+    float: left;
+}
+
+.cdg-woo-kit-form-switch-field label {
+    display: inline-block;
+    width: 60px;
+    background-color: #e4e4e4;
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+    text-shadow: none;
+    padding: 6px 14px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+
+    -webkit-transition: all 0.1s ease-in-out;
+    -moz-transition:    all 0.1s ease-in-out;
+    -ms-transition:     all 0.1s ease-in-out;
+    -o-transition:      all 0.1s ease-in-out;
+    transition:         all 0.1s ease-in-out;
+}
+
+.cdg-woo-kit-form-switch-field label:hover {
+    cursor: pointer;
+}
+
+.cdg-woo-kit-form-switch-field input:checked + label {
+    background-color: #0085b9;
+    color: white;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.cdg-woo-kit-form-switch-field label:first-of-type {
+    border-radius: 4px 0 0 4px;
+}
+
+.cdg-woo-kit-form-switch-field label:last-of-type {
+    border-radius: 0 4px 4px 0;
+}
+
+.cdg-woo-kit-form-field.switch label{
+    background-color: #f5f5f5;
+    padding: 3px;
+    width: 35px;
+}
+
+.cdg-woo-kit-form-field .select2-container--default .select2-selection--multiple, .cdg-woo-kit-form-field .select2-container--default .select2-selection--single {
+    border: solid #cccbcb 1px !important;
+    border-radius: 0px !important;
+}
+
+.cdg-woo-kit-form-field .select2-container--default.select2-container--focus .select2-selection--multiple, .cdg-woo-kit-form-field .select2-container--default.select2-container--focus .select2-selection--single {
+    border: solid #cccbcb 1px !important;
+    border-radius: 0px !important;
+}
+
+.select2-container--open .select2-dropdown--below {
+    border-radius: 0px !important;
+    border: 1px solid #cccbcb;
+    margin-top: -1px;
+}
+
+.cdg-woo-kit-form-field.rule_group{
+    padding-top: 5px;
+}
+
+.cdg-woo-kit-form-field button{
+    margin-top: 6px !important;
+}
+
+.select2-container .select2-selection--multiple {
+    line-height: 1;
+}
+
+.cdg-woo-kit-form-field.hidden-input{
+    flex: 0;
+}
+a.cdg-woo-kit-tooltip i{
+    transform: translateX(50%);
+    padding: unset;
+}
+
+a.cdg-woo-kit-tooltip:hover .tooltip {
+    visibility: visible;
+    opacity: 1;
+    padding: 12px;
+    -webkit-transform: translate(-50%, -130%);
+    transform: translate(-50%, -130%);
+}
+a.cdg-woo-kit-tooltip .tooltip {
+    display: inline-block;
+    position: absolute;
+    background-color: #00a0d2;
+    color: white;
+    border-radius: 3px;
+    font-size: 14px;
+    opacity: 0;
+    pointer-events: none;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    z-index: 1;
+}
+a.cdg-woo-kit-tooltip .tooltip:after {
+    display: block;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    width: 0;
+    height: 0;
+    content: "";
+    border: 10px solid transparent;
+    border-top-color: #00a0d2;
+    border-bottom-width: 0;
+    -webkit-transform: translate(-50%, 100%);
+    transform: translate(-50%, 100%);
+}
+
+.cdg-woo-kit-dashboard-plugins-wrapper {
+    display: grid;
+    grid-auto-flow: row;
+    grid-gap: 30px 50px;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 340px));
+    justify-items: stretch;
+    align-items: center;
+}
+
+.cdg-woo-kit-plugin-card{
+    background: #fff;
+    border-radius: 2px;
+    min-height: 300px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    position: relative;
+    padding: 20px;
+}
+
+.flex-unset{
+    flex: unset;
+}
+
+.colorpicker-preview{
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    margin-right: 5px;
+    border: 1px solid #ddd;
+}
+
+.cdg-woo-kit-logo{
+    width: 150px;
+}
+
+.cdg-woo-kit-header{
+    font-size: 20px;
+}
+
+@font-face {
+    font-family: 'woo-kit';
+    src:  url('../webfonts/woo-kit.eot?mlavib');
+    src:  url('../webfonts/woo-kit.eot?mlavib#iefix') format('embedded-opentype'),
+    url('../webfonts/woo-kit.ttf?mlavib') format('truetype'),
+    url('../webfonts/woo-kit.woff?mlavib') format('woff'),
+    url('../webfonts/woo-kit.svg?mlavib#woo-kit') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-cdg-woo-kit"], [class*=" icon-cdg-woo-kit"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'woo-kit' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+#toplevel_page_cdg_woo_kit_flash_sales_main_menu .wp-menu-image:before {
+    font-family: 'woo-kit' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    content: "\e900";
+}
+#toplevel_page_cdg_woo_gift_card_main_menu .wp-menu-image:before {
+    font-family: 'woo-kit' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    content: "\e901";
+}
+
+#toplevel_page_cdg_woo_kit_main_menu .wp-menu-image:before {
+    font-family: 'woo-kit' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    content: "\e902";
+}
+
+#toplevel_page_cdg_woo_kit_cart_reminder_main_menu .wp-menu-image:before {
+    font-family: 'woo-kit' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    content: "\e903";
+}
+
+.select2{
+    width: 100% !important;
+}
+
+.select2-wf-to-wp label {
+    margin-bottom: 10px;
+}
+
+.udesly-error-msg p {
+    color: #ce1a1a;
+    font-size: 18px;
+}
+
+.udesly-success-msg p{
+    color: #51a747;
+    font-size: 18px;
+}
+
+.udesly-hide-msg{
+    display: none;
+}

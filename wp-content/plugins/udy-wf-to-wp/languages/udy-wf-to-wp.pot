@@ -1,0 +1,1631 @@
+# Copyright (C) 2018 udy-wf-to-wp
+# This file is distributed under the same license as the udy-wf-to-wp package.
+msgid ""
+msgstr ""
+"Project-Id-Version: udy-wf-to-wp\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../includes/core/class-udy-wf-to-wp.php:191, ../includes/core/class-udy-wf-to-wp.php:191, ../includes/plugins/contentmanager/settings/class-settings-manager.php:290, ../includes/plugins/contentmanager/settings/class-settings-manager.php:292
+msgid "Udesly"
+msgstr ""
+
+#: ../includes/misc/edd-functions.php:19
+msgid "$shop_title"
+msgstr ""
+
+#: ../includes/misc/edd-functions.php:22, ../includes/misc/edd-functions.php:26
+msgid "%1$s %2$s"
+msgstr ""
+
+#. translators: Yearly archive title. 1: Year
+#: ../includes/misc/edd-functions.php:31, ../includes/plugins/contentmanager/settings/class-settings-blog.php:58
+msgid "Year: %s"
+msgstr ""
+
+#: ../includes/misc/edd-functions.php:31, ../includes/plugins/contentmanager/settings/class-settings-blog.php:58
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#. translators: Monthly archive title. 1: Month name and year
+#: ../includes/misc/edd-functions.php:33, ../includes/plugins/contentmanager/settings/class-settings-blog.php:61
+msgid "Month: %s"
+msgstr ""
+
+#: ../includes/misc/edd-functions.php:33, ../includes/plugins/contentmanager/settings/class-settings-blog.php:61
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#. translators: Daily archive title. 1: Date
+#: ../includes/misc/edd-functions.php:35, ../includes/plugins/contentmanager/settings/class-settings-blog.php:64
+msgid "Day: %s"
+msgstr ""
+
+#: ../includes/misc/edd-functions.php:35, ../includes/plugins/contentmanager/settings/class-settings-blog.php:64
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: ../includes/misc/edd-functions.php:38, ../includes/plugins/contentmanager/settings/class-settings-blog.php:67
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: ../includes/misc/edd-functions.php:40, ../includes/plugins/contentmanager/settings/class-settings-blog.php:69
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: ../includes/misc/edd-functions.php:42, ../includes/plugins/contentmanager/settings/class-settings-blog.php:71
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: ../includes/misc/edd-functions.php:44, ../includes/plugins/contentmanager/settings/class-settings-blog.php:73
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: ../includes/misc/edd-functions.php:46, ../includes/plugins/contentmanager/settings/class-settings-blog.php:75
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: ../includes/misc/edd-functions.php:48, ../includes/plugins/contentmanager/settings/class-settings-blog.php:77
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: ../includes/misc/edd-functions.php:50, ../includes/plugins/contentmanager/settings/class-settings-blog.php:79
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: ../includes/misc/edd-functions.php:52, ../includes/plugins/contentmanager/settings/class-settings-blog.php:81
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: ../includes/misc/edd-functions.php:54, ../includes/plugins/contentmanager/settings/class-settings-blog.php:83
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: ../includes/misc/general-functions.php:81
+msgid "&laquo; Previous"
+msgstr ""
+
+#: ../includes/misc/general-functions.php:82
+msgid "Next &raquo;"
+msgstr ""
+
+#: ../includes/misc/login-functions.php:5
+msgid "Sorry, this form should not be visible"
+msgstr ""
+
+#: ../includes/misc/login-functions.php:11
+msgid "Sorry, that key has expired. Please try again."
+msgstr ""
+
+#: ../includes/misc/login-functions.php:13
+msgid "Sorry, that key does not appear to be valid."
+msgstr ""
+
+#: ../includes/misc/social-share-functions.php:62
+msgid "Read more on:"
+msgstr ""
+
+#: ../includes/misc/woo-functions.php:55
+msgctxt "breadcrumb"
+msgid "Shop"
+msgstr ""
+
+#. translators: %d: total results
+#: ../includes/misc/woo-functions.php:103
+msgid "Showing the single result"
+msgid_plural "Showing all %d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: first result 2: last result 3: total results
+#: ../includes/misc/woo-functions.php:108
+msgctxt "with first and last result"
+msgid "Showing the single result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/misc/woo-functions.php:118
+msgid "Default sorting"
+msgstr ""
+
+#: ../includes/misc/woo-functions.php:119
+msgid "Sort by popularity"
+msgstr ""
+
+#: ../includes/misc/woo-functions.php:120
+msgid "Sort by average rating"
+msgstr ""
+
+#: ../includes/misc/woo-functions.php:121
+msgid "Sort by newness"
+msgstr ""
+
+#: ../includes/misc/woo-functions.php:122
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: ../includes/misc/woo-functions.php:123
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: ../includes/misc/woo-functions.php:128
+msgid "Relevance"
+msgstr ""
+
+#: ../includes/misc/woo-functions.php:346
+msgid "SKU:"
+msgstr ""
+
+#: ../includes/misc/woo-functions.php:346
+msgid "N/A"
+msgstr ""
+
+#: ../includes/ui/class-ui-assets.php:35, ../includes/plugins/rules/rule/class-rule-controller.php:147
+msgid "OR"
+msgstr ""
+
+#: ../includes/ui/class-ui-assets.php:36, ../includes/plugins/rules/rule/class-rule-controller.php:145
+msgid "AND"
+msgstr ""
+
+#: ../includes/ui/class-ui-assets.php:37, ../includes/plugins/rules/rule/class-rule-controller.php:135, ../includes/plugins/rules/rule/class-rule-controller.php:149
+msgid "Apply this rules:"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:154
+msgid "List View"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:155
+msgid "Excerpt View"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:315
+msgid "No items found."
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:437
+msgid "Select bulk action"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:439
+msgid "Bulk Actions"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:449
+msgid "Apply"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:497, ../includes/ui/class-wp-list-table.php:1275
+msgid "Show more details"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:559
+msgid "Filter by date"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:561
+msgid "All dates"
+msgstr ""
+
+#. translators: 1: month name, 2: 4-digit year
+#: ../includes/ui/class-wp-list-table.php:574
+msgid "%1$s %2$d"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:624
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/ui/class-wp-list-table.php:625
+msgid "%s approved comment"
+msgid_plural "%s approved comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/ui/class-wp-list-table.php:626
+msgid "%s pending comment"
+msgid_plural "%s pending comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/ui/class-wp-list-table.php:631, ../includes/ui/class-wp-list-table.php:643, ../includes/ui/class-wp-list-table.php:656
+msgid "No comments"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:643
+msgid "No approved comments"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:656
+msgid "No pending comments"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:730, ../includes/ui/class-wp-list-table.php:1299
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/ui/class-wp-list-table.php:766
+msgid "First page"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:776
+msgid "Previous page"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:783, ../includes/ui/class-wp-list-table.php:786
+msgid "Current Page"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:792
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:799
+msgid "Next page"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:809
+msgid "Last page"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:1029
+msgid "Select All"
+msgstr ""
+
+#: ../includes/utils/class-utils.php:193
+msgid "Install the WordPress importer plugin"
+msgstr ""
+
+#: ../includes/utils/class-utils.php:196
+msgid "The udesly_exported_pages.xml file is missing. Did you activate the exported theme ?"
+msgstr ""
+
+#: ../includes/utils/class-utils.php:209, ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:60
+msgid "Can't delete WordPress pages"
+msgstr ""
+
+#: ../includes/utils/class-utils.php:223
+msgid "Can't delete Frontend editor elements"
+msgstr ""
+
+#: ../includes/utils/class-utils.php:237
+msgid "The udesly_exported_data.json file is missing. Did you activate the exported theme ?"
+msgstr ""
+
+#: ../includes/plugins/blog/class-blog-configuration.php:16, ../includes/plugins/edd/class-edd-configuration.php:19, ../includes/plugins/woocommerce/class-woocommerce-configuration.php:17
+msgid "Main Category"
+msgstr ""
+
+#: ../includes/plugins/blog/class-blog-configuration.php:27, ../includes/plugins/edd/class-edd-configuration.php:41, ../includes/plugins/woocommerce/class-woocommerce-configuration.php:28
+msgid "No Main Category"
+msgstr ""
+
+#: ../includes/plugins/blog/class-blog-terms.php:19, ../includes/plugins/customtypes/class-customtypes-configuration.php:82, ../includes/plugins/edd/class-edd-terms.php:19
+msgid "Featured Image"
+msgstr ""
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:41, ../includes/plugins/boxes/class-boxes-configuration.php:60, ../includes/plugins/boxes/class-boxes-configuration.php:65
+msgid "Boxes"
+msgstr ""
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:42, ../includes/plugins/boxes/class-boxes-configuration.php:61
+msgid "Box"
+msgstr ""
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:62
+msgid "Add New Box"
+msgstr ""
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:63
+msgid "Add Box"
+msgstr ""
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:64
+msgid "Edit Boxes"
+msgstr ""
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:66
+msgid "View Box"
+msgstr ""
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:67
+msgid "Search Boxes"
+msgstr ""
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:68
+msgid "No Boxes found"
+msgstr ""
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:69
+msgid "No Boxes found in Trash"
+msgstr ""
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:79
+msgid "Dynamic Box"
+msgstr ""
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:102
+msgid "Related Page"
+msgstr ""
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:116
+msgid "No Page Selected"
+msgstr ""
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:120
+msgid "Go To Page"
+msgstr ""
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:148
+msgid "Related Boxes"
+msgstr ""
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:163
+msgid "This Page use these Boxes"
+msgstr ""
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:172
+msgid "Edit Box"
+msgstr ""
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:196, ../includes/plugins/customtypes/class-customtypes-configuration.php:666, ../includes/plugins/rules/class-rules-manager.php:80, ../includes/plugins/contentmanager/contents/class-content-manager.php:98, ../includes/plugins/contentmanager/lists/class-list-manager.php:54
+msgid "Title"
+msgstr ""
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:197
+msgid "Shortcode"
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:68
+msgid "Archives"
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:69
+msgid "Attributes"
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:70, ../includes/plugins/rules/class-rules-configuration.php:48, ../includes/plugins/contentmanager/contents/class-content-configuration.php:39, ../includes/plugins/contentmanager/lists/class-list-configuration.php:39
+msgid "Parent Item:"
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:71, ../includes/plugins/customtypes/class-customtypes-configuration.php:128, ../includes/plugins/customtypes/class-customtypes-configuration.php:129
+msgid "All "
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:72
+msgid "Add New "
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:73
+msgid "Add New"
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:74, ../includes/plugins/customtypes/class-customtypes-configuration.php:134
+msgid "New "
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:75, ../includes/plugins/customtypes/class-customtypes-configuration.php:130
+msgid "Edit "
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:76, ../includes/plugins/customtypes/class-customtypes-configuration.php:132
+msgid "Update "
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:77, ../includes/plugins/customtypes/class-customtypes-configuration.php:78, ../includes/plugins/customtypes/class-customtypes-configuration.php:131
+msgid "View "
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:79, ../includes/plugins/customtypes/class-customtypes-configuration.php:135
+msgid "Search "
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:80, ../includes/plugins/rules/class-rules-configuration.php:56, ../includes/plugins/contentmanager/contents/class-content-configuration.php:47, ../includes/plugins/contentmanager/lists/class-list-configuration.php:47
+msgid "Not found"
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:81, ../includes/plugins/rules/class-rules-configuration.php:57, ../includes/plugins/contentmanager/contents/class-content-configuration.php:48, ../includes/plugins/contentmanager/lists/class-list-configuration.php:48
+msgid "Not found in Trash"
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:83
+msgid "Set featured image"
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:84
+msgid "Remove featured image"
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:85
+msgid "Use as featured image"
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:86
+msgid "Insert into item"
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:87
+msgid "Uploaded to this item"
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:88
+msgid "Items list"
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:89
+msgid "Items list navigation"
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:90
+msgid "Filter items list"
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:94
+msgid " Description"
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:133
+msgid "Add new "
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:134
+msgid " name"
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:136
+msgid "Popular "
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:137
+msgid "Separate "
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:137
+msgid " with commas"
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:138
+msgid "Add or remove "
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:139
+msgid "Choose most used "
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:140
+msgid "No "
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:140
+msgid " found"
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:232
+msgid "View Custom Types"
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:240
+msgid "View all"
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:304, ../includes/plugins/customtypes/class-customtypes-configuration.php:650, ../includes/plugins/customtypes/class-customtypes-configuration.php:655
+msgid "Custom Types"
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:305, ../includes/plugins/customtypes/class-customtypes-configuration.php:651, ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-status.php:77
+msgid "Custom Type"
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:360, ../includes/plugins/customtypes/class-customtypes-configuration.php:641, ../includes/plugins/contentmanager/settings/class-settings-configuration.php:29, ../includes/plugins/contentmanager/settings/class-settings-configuration.php:29, ../includes/plugins/contentmanager/settings/class-settings-manager.php:319, ../includes/plugins/contentmanager/settings/view/settings-view.php:6
+msgid "Settings"
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:652
+msgid "Add New Custom Type"
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:653
+msgid "Add Custom Type"
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:654
+msgid "Edit Custom Types"
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:656
+msgid "View Custom Type"
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:657
+msgid "Search Custom Types"
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:658
+msgid "No Custom Types found"
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:659
+msgid "No Custom Types found in Trash"
+msgstr ""
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:667, ../includes/plugins/rules/class-rules-manager.php:81, ../includes/plugins/contentmanager/contents/class-content-manager.php:99, ../includes/plugins/contentmanager/lists/class-list-manager.php:55
+msgid "Slug"
+msgstr ""
+
+#: ../includes/plugins/form/class-ajax.php:37
+msgid "Someone sent a message from "
+msgstr ""
+
+#: ../includes/plugins/form/class-ajax.php:37
+msgid ":"
+msgstr ""
+
+#: ../includes/plugins/form/class-ajax.php:63
+msgid "New message from "
+msgstr ""
+
+#: ../includes/plugins/frontendeditor/class-frontendeditor-configuration.php:31, ../includes/plugins/frontendeditor/class-frontendeditor-configuration.php:32, ../includes/plugins/frontendeditor/class-frontendeditor-configuration.php:42, ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-frontend-editor.php:42
+msgid "Frontend Editor"
+msgstr ""
+
+#: ../includes/plugins/frontendeditor/class-frontendeditor-configuration.php:54
+msgid "Frontend editor elements succesfully deleted"
+msgstr ""
+
+#: ../includes/plugins/rules/class-rules-configuration.php:42, ../includes/plugins/rules/class-rules-configuration.php:47, ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-status.php:59
+msgid "Rule"
+msgstr ""
+
+#: ../includes/plugins/rules/class-rules-configuration.php:45
+msgctxt "Post Type General Name"
+msgid "Rules"
+msgstr ""
+
+#: ../includes/plugins/rules/class-rules-configuration.php:46
+msgctxt "Post Type Singular Name"
+msgid "Rule"
+msgstr ""
+
+#: ../includes/plugins/rules/class-rules-configuration.php:49, ../includes/plugins/rules/class-rules-configuration.php:76, ../includes/plugins/rules/class-rules-configuration.php:151
+msgid "Rules"
+msgstr ""
+
+#: ../includes/plugins/rules/class-rules-configuration.php:50
+msgid "View Rules"
+msgstr ""
+
+#: ../includes/plugins/rules/class-rules-configuration.php:51, ../includes/plugins/rules/class-rules-configuration.php:52
+msgid "Add New Rule"
+msgstr ""
+
+#: ../includes/plugins/rules/class-rules-configuration.php:53
+msgid "Edit Rule"
+msgstr ""
+
+#: ../includes/plugins/rules/class-rules-configuration.php:54
+msgid "Update Rule"
+msgstr ""
+
+#: ../includes/plugins/rules/class-rules-configuration.php:55
+msgid "Search Rule"
+msgstr ""
+
+#: ../includes/plugins/rules/class-rules-configuration.php:83
+msgid "Redirect rules"
+msgstr ""
+
+#: ../includes/plugins/rules/class-rules-configuration.php:97
+msgid "No redirect"
+msgstr ""
+
+#: ../includes/plugins/rules/class-rules-configuration.php:103
+msgid "Redirect if selected rule is satisfied."
+msgstr ""
+
+#: ../includes/plugins/wplogin/class-ajax.php:63
+msgid "Enter a username or e-mail address."
+msgstr ""
+
+#: ../includes/plugins/wplogin/class-ajax.php:67
+msgid "There is no user registered with that email address."
+msgstr ""
+
+#: ../includes/plugins/wplogin/class-ajax.php:82
+msgid "Invalid username or email."
+msgstr ""
+
+#: ../includes/plugins/wplogin/class-ajax.php:97
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: ../includes/plugins/wplogin/class-ajax.php:99
+msgid "Username: %s"
+msgstr ""
+
+#: ../includes/plugins/wplogin/class-ajax.php:100
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: ../includes/plugins/wplogin/class-ajax.php:101
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: ../includes/plugins/wplogin/class-ajax.php:114
+msgid "%s - Password Reset"
+msgstr ""
+
+#: ../includes/plugins/wplogin/class-ajax.php:123
+msgid "The e-mail could not be sent."
+msgstr ""
+
+#: ../includes/plugins/wplogin/class-ajax.php:153, ../includes/plugins/wplogin/class-ajax.php:214
+msgid "Password is required field"
+msgstr ""
+
+#: ../includes/plugins/wplogin/class-ajax.php:157, ../includes/plugins/wplogin/class-ajax.php:220
+msgid "The passwords do not match."
+msgstr ""
+
+#: ../includes/plugins/wplogin/class-ajax.php:161, ../includes/plugins/wplogin/class-ajax.php:226
+msgid "The passwords is too short, min. 6 characters."
+msgstr ""
+
+#: ../includes/plugins/wplogin/class-ajax.php:186
+msgid "Sorry, registration is not currently allowed"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-configuration.php:33, ../includes/plugins/contentmanager/contents/class-content-configuration.php:38, ../includes/plugins/contentmanager/contents/class-content-configuration.php:67, ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-status.php:50
+msgid "Content"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-configuration.php:36
+msgctxt "Post Type General Name"
+msgid "Contents"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-configuration.php:37
+msgctxt "Post Type Singular Name"
+msgid "Content"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-configuration.php:40
+msgid "Contents"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-configuration.php:41
+msgid "View Contents"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-configuration.php:42, ../includes/plugins/contentmanager/contents/class-content-configuration.php:43
+msgid "Add New Content"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-configuration.php:44
+msgid "Edit Content"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-configuration.php:45
+msgid "Update Content"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-configuration.php:46
+msgid "Search Content"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-manager.php:127
+msgid "You need to create the missing data that your theme requires"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-manager.php:127
+msgid "go to Udesly => Import from Webflow => Missing elements."
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-manager.php:135
+msgid "You need to import the pages"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-manager.php:135, ../includes/plugins/contentmanager/contents/class-content-manager.php:143, ../includes/plugins/contentmanager/contents/class-content-manager.php:151
+msgid "go to Udesly => Import from Webflow => Webflow data."
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-manager.php:143
+msgid "Did you convert and used more then one udesly theme? Maybe you need to clean the database from old frontend editor data"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-manager.php:151
+msgid "You need to import the frontend editor data"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:27
+msgid "Author"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:28, ../includes/plugins/contentmanager/contents/class-content-ui.php:68, ../includes/plugins/contentmanager/lists/class-list-ui.php:27, ../includes/plugins/contentmanager/lists/class-list-ui.php:41
+msgid "Taxonomy"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:29, ../includes/plugins/rules/rule/class-rule-is-category.php:22
+msgid "Category"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:30, ../includes/plugins/rules/rule/class-rule-is-tag.php:22
+msgid "Tag"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:31
+msgid "Objects (Posts, Products, etc.)"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:32
+msgid "Date"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:33
+msgid "Meta/Custom Field"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:34, ../includes/plugins/contentmanager/lists/class-list-ui.php:30
+msgid "Sorting"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:35, ../includes/plugins/contentmanager/lists/class-list-ui.php:31, ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-pagination.php:31
+msgid "Pagination"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:36
+msgid "Related elements"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:46
+msgid "Authors List"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:46
+msgid "Get entries by selected authors (using user_nicename)"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:53
+msgid "Authors Exclude List"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:53
+msgid "Exclude posts from selected authors"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:68, ../includes/plugins/contentmanager/lists/class-list-ui.php:41
+msgid "A single taxonomy name, or a list of taxonomies."
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:77, ../includes/plugins/contentmanager/lists/class-list-ui.php:56
+msgid "Term Name"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:77, ../includes/plugins/contentmanager/lists/class-list-ui.php:56
+msgid "Return term by names."
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:92
+msgid "Categories List"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:92
+msgid "Get entries associated with ANY of the selected category ids"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:99
+msgid "Categories Exclude List"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:99
+msgid "Get entries NOT associated with any of the selected category ids"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:114
+msgid "Tags List"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:114
+msgid "Get entries having any of the selected tag ids"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:121
+msgid "Tags Exclude List"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:121
+msgid "Get entries not having any of the selected tag ids"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:136
+msgid "Status"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:136
+msgid "Get entries by selected status"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:143
+msgid "Type"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:143, ../includes/plugins/contentmanager/contents/class-content-ui.php:190
+msgid "Get entries by selected post type"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:153, ../includes/plugins/contentmanager/lists/class-list-configuration.php:33, ../includes/plugins/contentmanager/lists/class-list-configuration.php:38, ../includes/plugins/contentmanager/lists/class-list-configuration.php:67, ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-status.php:68
+msgid "List"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:153
+msgid "Get posts by id"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:160
+msgid "Exclude List"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:160
+msgid "Exclude selected posts"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:171
+msgid "Year"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:172
+msgid "Month"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:173
+msgid "Week"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:175
+msgid "Day"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:176
+msgid "Hour"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:177
+msgid "Minute"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:178
+msgid "Second"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:185
+msgid "Meta key"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:186
+msgid "Meta value"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:188
+msgid "Meta compare"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:202, ../includes/plugins/contentmanager/lists/class-list-ui.php:77
+msgid "Sort By"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:210, ../includes/plugins/contentmanager/lists/class-list-ui.php:85
+msgid "Sorting Direction"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:223
+msgid "Posts Per Page"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:230
+msgid "By checking an option other than \"No related elements\" all the other options, except \"Sorting\" and \"Pagination\", will be overridden."
+msgstr ""
+
+#: ../includes/plugins/contentmanager/lists/class-list-configuration.php:36
+msgctxt "Post Type General Name"
+msgid "Lists"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/lists/class-list-configuration.php:37
+msgctxt "Post Type Singular Name"
+msgid "List"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/lists/class-list-configuration.php:40
+msgid "Lists"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/lists/class-list-configuration.php:41
+msgid "View Lists"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/lists/class-list-configuration.php:42, ../includes/plugins/contentmanager/lists/class-list-configuration.php:43
+msgid "Add New List"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/lists/class-list-configuration.php:44
+msgid "Edit List"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/lists/class-list-configuration.php:45
+msgid "Update List"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/lists/class-list-configuration.php:46
+msgid "Search List"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/lists/class-list-ui.php:28
+msgid "Term"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/lists/class-list-ui.php:29, ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-search.php:36
+msgid "Search"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/lists/class-list-ui.php:69
+msgid "Term Name Like"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/lists/class-list-ui.php:69
+msgid "Return terms with names like the criteria."
+msgstr ""
+
+#: ../includes/plugins/contentmanager/lists/class-list-ui.php:99
+msgid "Number of elements"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/lists/class-list-ui.php:100
+msgid "Parent"
+msgstr ""
+
+#. translators: Post type archive title. 1: Post type name
+#: ../includes/plugins/contentmanager/settings/class-settings-blog.php:87
+msgid "Archives: %s"
+msgstr ""
+
+#. translators: Taxonomy term archive title. 1: Taxonomy singular name, 2: Current taxonomy term
+#: ../includes/plugins/contentmanager/settings/class-settings-blog.php:91
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/class-settings-configuration.php:33
+msgid "Import from webflow"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/class-settings-configuration.php:33, ../includes/plugins/contentmanager/settings/view/import-view.php:6
+msgid "Import from Webflow"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/class-settings-manager.php:199
+msgid "Setting saved!"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/class-settings-manager.php:207
+msgid " Email setting errors:"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/class-settings-manager.php:236
+msgid "You need to select the website homepage, "
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/class-settings-manager.php:236
+msgid "go to Settings => reading."
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/class-settings-manager.php:244
+msgid "Please install the"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/class-settings-manager.php:244
+msgid "in order to use Udesly."
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/class-settings-manager.php:299
+msgid "Import pages and data"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/class-settings-manager.php:311
+msgid "Go to import page"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-always.php:38
+msgid "Always"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-controller.php:45, ../includes/plugins/rules/rule/class-rule-controller.php:49
+msgid "Invalid Rules"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-edd-has-user-purchased.php:22
+msgid "[EDD] Download purchase"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-edd-has-user-purchased.php:71
+msgid "has user purchased"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-edd-has-user-purchased.php:72
+msgid "has not user purchased"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-has-subcategories.php:22
+msgid "Has Subcategories"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-has-subcategories.php:55, ../includes/plugins/rules/rule/class-rule-woo-has-subcategories.php:55
+msgid "has subcategories"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-has-subcategories.php:56, ../includes/plugins/rules/rule/class-rule-woo-has-subcategories.php:56
+msgid "doesn't have subcategories"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-is-archive.php:22
+msgid "Archive"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-is-archive.php:56
+msgid "is archive page"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-is-archive.php:57
+msgid "is not archive page"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-is-category.php:63, ../includes/plugins/rules/rule/class-rule-woo-is-category.php:63
+msgid "is category"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-is-category.php:64, ../includes/plugins/rules/rule/class-rule-woo-is-category.php:64
+msgid "is not category"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-is-category.php:65, ../includes/plugins/rules/rule/class-rule-is-tag.php:65, ../includes/plugins/rules/rule/class-rule-woo-is-category.php:65, ../includes/plugins/rules/rule/class-rule-woo-is-tag.php:65
+msgid "Any"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-is-category.php:66, ../includes/plugins/rules/rule/class-rule-is-tag.php:66, ../includes/plugins/rules/rule/class-rule-woo-is-category.php:66, ../includes/plugins/rules/rule/class-rule-woo-is-tag.php:66, ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-blog.php:39, ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-edd.php:34
+msgid "None"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-is-home.php:22
+msgid "Main Blog Page"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-is-home.php:56
+msgid "is main blog page"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-is-home.php:57
+msgid "is not main blog page"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-is-post-type-archive.php:22
+msgid "Post Type Archive"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-is-post-type-archive.php:64
+msgid "is post type archive page"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-is-post-type-archive.php:65
+msgid "is not post type  archive page"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-is-subcategory.php:22, ../includes/plugins/rules/rule/class-rule-is-subcategory.php:55
+msgid "Is Subcategory"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-is-subcategory.php:56
+msgid "Is not a subcategory"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-is-tag.php:63, ../includes/plugins/rules/rule/class-rule-woo-is-tag.php:63
+msgid "is tag"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-is-tag.php:64, ../includes/plugins/rules/rule/class-rule-woo-is-tag.php:64
+msgid "is not tag"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-logged-in.php:22
+msgid "Login status"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-logged-in.php:55
+msgid "logged in"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-logged-in.php:56
+msgid "not logged in"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-can-access.php:22
+msgid "[RCP] User Access"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-can-access.php:55
+msgid "Can Access"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-can-access.php:56
+msgid "Cannot Access"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-has-subscription.php:22
+msgid "[RCP] Has Subscription"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-has-subscription.php:61
+msgid "User has subscription"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-has-subscription.php:62
+msgid "User doesn't have subscription"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-has-used-trial.php:22
+msgid "[RCP] Trial Usage"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-has-used-trial.php:55
+msgid "User used trial"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-has-used-trial.php:56
+msgid "User has not used trial"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-active.php:22
+msgid "[RCP] Subscription Active"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-active.php:55
+msgid "Has active subscription"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-active.php:56
+msgid "Doesn't have active subscription"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-expired.php:22
+msgid "[RCP] Subscription Expired"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-expired.php:55
+msgid "Has expired subscription"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-expired.php:56
+msgid "Doesn't have expired subscription"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-paid-content.php:22
+msgid "[RCP] Paid Content"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-paid-content.php:55
+msgid "Is paid content"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-paid-content.php:56
+msgid "Is not paid content"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-pending-verification.php:22
+msgid "[RCP] Pending Email Verification"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-pending-verification.php:55
+msgid "Is pending email verification"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-pending-verification.php:56
+msgid "Is not pending email verification"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-restricted-content.php:22
+msgid "[RCP] Restricted Content"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-restricted-content.php:55
+msgid "Is restricted content"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-restricted-content.php:56
+msgid "Is not restricted content"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-trialing.php:22
+msgid "[RCP] Subscription Trialing"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-trialing.php:55
+msgid "Is user trialing"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-trialing.php:56
+msgid "Is not user trialing"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-role.php:22
+msgid "User Role"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-role.php:61, ../includes/plugins/rules/rule/class-rule-user.php:65, ../includes/plugins/rules/rule/class-rule-woo-has-user-purchased.php:66, ../includes/plugins/rules/rule/class-rule-woo-products.php:65
+msgid "is"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-role.php:62, ../includes/plugins/rules/rule/class-rule-user.php:66, ../includes/plugins/rules/rule/class-rule-woo-has-user-purchased.php:67, ../includes/plugins/rules/rule/class-rule-woo-products.php:66
+msgid "is not"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-user.php:22
+msgid "User"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-woo-has-subcategories.php:22
+msgid "[WOO] Has Subcategories"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-woo-has-user-purchased.php:23
+msgid "[WOO] User Har Purchased"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-woo-is-category.php:22
+msgid "[WOO] is category"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-woo-is-tag.php:22
+msgid "[WOO] is tag"
+msgstr ""
+
+#: ../includes/plugins/rules/rule/class-rule-woo-products.php:22
+msgid "[WOO] Products"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/models/query/class-query-contentterm.php:61, ../includes/plugins/contentmanager/models/query/class-query-term.php:55
+msgid "Empty Term"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-blog.php:29
+msgid "Show the counter of child categories"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-blog.php:31
+msgid "Use the parent category template for subcategories"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-blog.php:33
+msgid "Category elements max number"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-blog.php:33, ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-blog.php:35, ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-search.php:33
+msgid "Set 0 to unlimited"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-blog.php:35, ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-search.php:33
+msgid "Excerpt length"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-blog.php:36, ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-search.php:34
+msgid "Excerpt more"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-blog.php:40, ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-edd.php:35
+msgid "Show direct children"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-blog.php:41, ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-edd.php:36
+msgid "Show all children"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-blog.php:42
+msgid "Display blog categories in archive page (Webflow \"archive categories\" element required)"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-blog.php:46
+msgid "Blog category title"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-blog.php:48
+msgid "Blog tag title"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-blog.php:50
+msgid "Blog author title"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-blog.php:52
+msgid "Blog archive title"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-blog.php:57
+msgid "Blog"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-edd.php:29
+msgid "Edd slug"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-edd.php:29
+msgid "This constant allows you to change the post type slug of the download post type."
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-edd.php:37
+msgid "Display edd categories in downloads archive page (Webflow \"archive categories\" element required)"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-edd.php:41
+msgid "Easy digital downloads category title"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-edd.php:43
+msgid "Easy digital downloads tag title"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-edd.php:45
+msgid "Easy digital downloads author title"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-edd.php:47
+msgid "Easy digital downloads archive title"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-edd.php:49
+msgid "Easy Digital Downloads"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-email.php:30
+msgid "General form email settings"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-email.php:32
+msgid "Email Recipient"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-email.php:34
+msgid "Email CC (comma separated)"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-email.php:37
+msgid "Welcome email"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-email.php:39
+msgid "Enable welcome email"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-email.php:41
+msgid "Subject"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-email.php:43
+msgid "Message"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-email.php:45
+msgid "You can use the following placeholders: "
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-email.php:47
+msgid "username of the registered user"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-email.php:48
+msgid "site title as defined in WP general settings"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-email.php:49
+msgid "first name entered by user on registration"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-email.php:50
+msgid "last name entered by user on registration"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-email.php:51
+msgid "home site link"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-email.php:53
+msgid "Email"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-frontend-editor.php:36
+msgid "No additional role"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-frontend-editor.php:39
+msgid "Enable Frontend Editor"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-frontend-editor.php:41
+msgid "Additional user role"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-frontend-editor.php:41
+msgid "Allow user with this specific role to use frontend editor along with administrator"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-pagination.php:28
+msgid "Pagination mid size"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-pagination.php:30
+msgid "Pagination end size"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-search.php:29
+msgid "If there is only one match, directly redirect to the result"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-search.php:31
+msgid "Search results per page"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-temporary-page.php:30
+msgid "Enable temporary page"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-temporary-page.php:37
+msgid "Temporary page"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-woocommerce.php:29
+msgid "Use the parent category template for shop subcategories"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-woocommerce.php:33
+msgid "Shop Page Title"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-woocommerce.php:35
+msgid "Tag Pre-Title"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-woocommerce.php:37
+msgid "Category Pre-Title"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-woocommerce.php:40
+msgid "Woocommerce"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/view/settings-view.php:11
+msgid "Save"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-custom-fields.php:33
+msgid "No custom fields found!"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-custom-fields.php:37
+msgid "The list below shows the custom fields added in your Webflow project that you can use in WordPress."
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-custom-fields.php:53
+msgid "Custom fields"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:30
+msgid "Click to import Webflow pages and frontend editor data into Wordpress"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:32
+msgid "Import pages and frontend editor data"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:35
+msgid "Click to delete all the imported Wordpress pages"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:37
+msgid "Delete all imported pages"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:40
+msgid "Click to delete all the frontend editor elements"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:42
+msgid "Delete all frontend editor elements"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:47
+msgid "Click to clean unused frontend editor elements"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:49
+msgid "Delete unused frontend editor elements"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:54
+msgid "Pages and data imported succesfully"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:55
+msgid "Install and activate the WordPress importer plugin"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:56
+msgid "The udesly_exported_pages.xml file is missing"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:59
+msgid "Pages deleted succesfully, make sure to import again"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:63
+msgid "Frontend editor elements deleted succesfully, make sure to import data again"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:64
+msgid "Can't delete frontend editor elements "
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:67
+msgid "Frontend editor elements cleaned succesfully"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:68
+msgid "Can't clean frontend editor elements "
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:71
+msgid " You need to install and activate the"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:71
+msgid "in order to manage Webflow data."
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:73
+msgid "Webflow data"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-status.php:33
+msgid "No missing elements found!"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-status.php:37
+msgid "The table below lists the missing elements used in your Webflow project that you need to create in WordPress through the Udesly plugin in order to have the converted theme working perfectly!"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-status.php:85
+msgid "Menu"
+msgstr ""
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-status.php:97
+msgid "Missing elements"
+msgstr ""

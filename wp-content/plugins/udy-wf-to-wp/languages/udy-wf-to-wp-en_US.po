@@ -1,0 +1,2168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Udesly Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-10 10:39+0200\n"
+"PO-Revision-Date: 2018-09-22 22:10+0200\n"
+"Last-Translator: Umberto\n"
+"Language-Team: English (USA)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz\n"
+"X-Loco-Source-Locale: en-US\n"
+"X-Loco-Project-Id: 52442\n"
+"X-Loco-Api-Version: 1.0.20 20180914-1"
+
+#: ../includes/core/class-udy-wf-to-wp.php:191,
+#: ../includes/core/class-udy-wf-to-wp.php:191,
+#: ../includes/plugins/contentmanager/settings/class-settings-manager.php:290,
+#: ../includes/plugins/contentmanager/settings/class-settings-manager.php:292
+#: loco:5b6d4f67a08ef1676472d961
+msgid "Udesly"
+msgstr "Udesly"
+
+#: ../includes/misc/general-functions.php:81 loco:5b6d4f67a08ef1676472d962
+msgid "&laquo; Previous"
+msgstr "&laquo; Previous"
+
+#: ../includes/misc/general-functions.php:82 loco:5b6d4f67a08ef1676472d963
+msgid "Next &raquo;"
+msgstr "Next &raquo;"
+
+#: ../includes/misc/login-functions.php:5 loco:5b6d4f67a08ef1676472d964
+msgid "Sorry, this form should not be visible"
+msgstr "Sorry, this form should not be visible"
+
+#: ../includes/misc/login-functions.php:11 loco:5b6d4f67a08ef1676472d965
+msgid "Sorry, that key has expired. Please try again."
+msgstr "Sorry, that key has expired. Please try again."
+
+#: ../includes/misc/login-functions.php:13 loco:5b6d4f67a08ef1676472d966
+msgid "Sorry, that key does not appear to be valid."
+msgstr "Sorry, that key does not appear to be valid."
+
+#: ../includes/misc/social-share-functions.php:62 loco:5b6d4f67a08ef1676472d967
+msgid "Read more on:"
+msgstr "Read more on:"
+
+#: ../includes/plugins/blog/class-blog-configuration.php:16,
+#: ../includes/plugins/edd/class-edd-configuration.php:19,
+#: ../includes/plugins/woocommerce/class-woocommerce-configuration.php:17
+#: loco:5b6d4f67a08ef1676472d968
+msgid "Main Category"
+msgstr "Main Category"
+
+#: ../includes/plugins/blog/class-blog-configuration.php:27,
+#: ../includes/plugins/edd/class-edd-configuration.php:41,
+#: ../includes/plugins/woocommerce/class-woocommerce-configuration.php:28
+#: loco:5b6d4f67a08ef1676472d969
+msgid "No Main Category"
+msgstr "No Main Category"
+
+#: ../includes/plugins/blog/class-blog-terms.php:19,
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:82,
+#: ../includes/plugins/edd/class-edd-terms.php:19 loco:5b6d4f67a08ef1676472d96a
+msgid "Featured Image"
+msgstr "Featured Image"
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:41,
+#: ../includes/plugins/boxes/class-boxes-configuration.php:60,
+#: ../includes/plugins/boxes/class-boxes-configuration.php:65
+#: loco:5b6d4f67a08ef1676472d96b
+msgid "Boxes"
+msgstr "Boxes"
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:42,
+#: ../includes/plugins/boxes/class-boxes-configuration.php:61
+#: loco:5b6d4f67a08ef1676472d96c
+msgid "Box"
+msgstr "Box"
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:62
+#: loco:5b6d4f67a08ef1676472d96d
+msgid "Add New Box"
+msgstr "Add New Box"
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:63
+#: loco:5b6d4f67a08ef1676472d96e
+msgid "Add Box"
+msgstr "Add Box"
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:64
+#: loco:5b6d4f67a08ef1676472d96f
+msgid "Edit Boxes"
+msgstr "Edit Boxes"
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:66
+#: loco:5b6d4f67a08ef1676472d970
+msgid "View Box"
+msgstr "View Box"
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:67
+#: loco:5b6d4f67a08ef1676472d971
+msgid "Search Boxes"
+msgstr "Search Boxes"
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:68
+#: loco:5b6d4f67a08ef1676472d972
+msgid "No Boxes found"
+msgstr "No Boxes found"
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:69
+#: loco:5b6d4f67a08ef1676472d973
+msgid "No Boxes found in Trash"
+msgstr "No Boxes found in Trash"
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:79
+#: loco:5b6d4f67a08ef1676472d974
+msgid "Dynamic Box"
+msgstr "Dynamic Box"
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:102
+#: loco:5b6d4f67a08ef1676472d975
+msgid "Related Page"
+msgstr "Related Page"
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:116
+#: loco:5b6d4f67a08ef1676472d976
+msgid "No Page Selected"
+msgstr "No Page Selected"
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:120
+#: loco:5b6d4f67a08ef1676472d977
+msgid "Go To Page"
+msgstr "Go To Page"
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:148
+#: loco:5b6d4f67a08ef1676472d978
+msgid "Related Boxes"
+msgstr "Related Boxes"
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:163
+#: loco:5b6d4f67a08ef1676472d979
+msgid "This Page use these Boxes"
+msgstr "This Page use these Boxes"
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:172
+#: loco:5b6d4f67a08ef1676472d97a
+msgid "Edit Box"
+msgstr "Edit Box"
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:196,
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:666,
+#: ../includes/plugins/rules/class-rules-manager.php:80,
+#: ../includes/plugins/contentmanager/contents/class-content-manager.php:98,
+#: ../includes/plugins/contentmanager/lists/class-list-manager.php:54
+#: loco:5b6d4f67a08ef1676472d97b
+msgid "Title"
+msgstr "Title"
+
+#: ../includes/plugins/boxes/class-boxes-configuration.php:197
+#: loco:5b6d4f67a08ef1676472d97c
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: ../includes/plugins/contentmanager/contents/class-content-configuration.php:33,
+#: ../includes/plugins/contentmanager/contents/class-content-configuration.php:38,
+#: ../includes/plugins/contentmanager/contents/class-content-configuration.php:67,
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-status.php:50
+#: loco:5b6d4f67a08ef1676472d97d
+msgid "Content"
+msgstr "Content"
+
+#: ../includes/plugins/contentmanager/contents/class-content-configuration.php:36
+#: loco:5b6d4f67a08ef1676472d97e
+msgctxt "Post Type General Name"
+msgid "Contents"
+msgstr "Contents"
+
+#: ../includes/plugins/contentmanager/contents/class-content-configuration.php:37
+#: loco:5b6d4f67a08ef1676472d97f
+msgctxt "Post Type Singular Name"
+msgid "Content"
+msgstr "Content"
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:70,
+#: ../includes/plugins/rules/class-rules-configuration.php:48,
+#: ../includes/plugins/contentmanager/contents/class-content-configuration.php:39,
+#: ../includes/plugins/contentmanager/lists/class-list-configuration.php:39
+#: loco:5b6d4f67a08ef1676472d980
+msgid "Parent Item:"
+msgstr "Parent Item:"
+
+#: ../includes/plugins/contentmanager/contents/class-content-configuration.php:40
+#: loco:5b6d4f67a08ef1676472d981
+msgid "Contents"
+msgstr "Contents"
+
+#: ../includes/plugins/contentmanager/contents/class-content-configuration.php:41
+#: loco:5b6d4f67a08ef1676472d982
+msgid "View Contents"
+msgstr "View Contents"
+
+#: ../includes/plugins/contentmanager/contents/class-content-configuration.php:42,
+#: ../includes/plugins/contentmanager/contents/class-content-configuration.php:43
+#: loco:5b6d4f67a08ef1676472d983
+msgid "Add New Content"
+msgstr "Add New Content"
+
+#: ../includes/plugins/contentmanager/contents/class-content-configuration.php:44
+#: loco:5b6d4f67a08ef1676472d984
+msgid "Edit Content"
+msgstr "Edit Content"
+
+#: ../includes/plugins/contentmanager/contents/class-content-configuration.php:45
+#: loco:5b6d4f67a08ef1676472d985
+msgid "Update Content"
+msgstr "Update Content"
+
+#: ../includes/plugins/contentmanager/contents/class-content-configuration.php:46
+#: loco:5b6d4f67a08ef1676472d986
+msgid "Search Content"
+msgstr "Search Content"
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:80,
+#: ../includes/plugins/rules/class-rules-configuration.php:56,
+#: ../includes/plugins/contentmanager/contents/class-content-configuration.php:47,
+#: ../includes/plugins/contentmanager/lists/class-list-configuration.php:47
+#: loco:5b6d4f67a08ef1676472d987
+msgid "Not found"
+msgstr "Not found"
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:81,
+#: ../includes/plugins/rules/class-rules-configuration.php:57,
+#: ../includes/plugins/contentmanager/contents/class-content-configuration.php:48,
+#: ../includes/plugins/contentmanager/lists/class-list-configuration.php:48
+#: loco:5b6d4f67a08ef1676472d988
+msgid "Not found in Trash"
+msgstr "Not found in Trash"
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:667,
+#: ../includes/plugins/rules/class-rules-manager.php:81,
+#: ../includes/plugins/contentmanager/contents/class-content-manager.php:99,
+#: ../includes/plugins/contentmanager/lists/class-list-manager.php:55
+#: loco:5b6d4f67a08ef1676472d989
+msgid "Slug"
+msgstr "Slug"
+
+#: ../includes/plugins/contentmanager/contents/class-content-manager.php:127
+#: loco:5b6d4f67a08ef1676472d98a
+msgid "You need to create the missing data that your theme requires"
+msgstr "You need to create the missing data that your theme requires"
+
+#: ../includes/plugins/contentmanager/contents/class-content-manager.php:127
+#: loco:5b6d4f67a08ef1676472d98b
+msgid "go to Udesly => Import from Webflow => Missing elements."
+msgstr "go to Udesly => Import from Webflow => Missing elements."
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:27
+#: loco:5b6d4f67a08ef1676472d98c
+msgid "Author"
+msgstr "Author"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:29,
+#: ../includes/plugins/rules/rule/class-rule-is-category.php:22
+#: loco:5b6d4f67a08ef1676472d98d
+msgid "Category"
+msgstr "Category"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:30,
+#: ../includes/plugins/rules/rule/class-rule-is-tag.php:22
+#: loco:5b6d4f67a08ef1676472d98e
+msgid "Tag"
+msgstr "Tag"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:31
+#: loco:5b6d4f67a08ef1676472d98f
+msgid "Objects (Posts, Products, etc.)"
+msgstr "Objects (Posts, Products, etc.)"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:32
+#: loco:5b6d4f67a08ef1676472d990
+msgid "Date"
+msgstr "Date"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:33
+#: loco:5b6d4f67a08ef1676472d991
+msgid "Meta/Custom Field"
+msgstr "Meta/Custom Field"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:34,
+#: ../includes/plugins/contentmanager/lists/class-list-ui.php:30
+#: loco:5b6d4f67a08ef1676472d992
+msgid "Sorting"
+msgstr "Sorting"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:35,
+#: ../includes/plugins/contentmanager/lists/class-list-ui.php:31,
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-pagination.php:31
+#: loco:5b6d4f67a08ef1676472d993
+msgid "Pagination"
+msgstr "Pagination"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:36
+#: loco:5b6d4f67a08ef1676472d994
+msgid "Related elements"
+msgstr "Related elements"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:46
+#: loco:5b6d4f67a08ef1676472d995
+msgid "Authors List"
+msgstr "Authors List"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:46
+#: loco:5b6d4f67a08ef1676472d996
+msgid "Get entries by selected authors (using user_nicename)"
+msgstr "Get entries by selected authors (using user_nicename)"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:53
+#: loco:5b6d4f67a08ef1676472d997
+msgid "Authors Exclude List"
+msgstr "Authors Exclude List"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:53
+#: loco:5b6d4f67a08ef1676472d998
+msgid "Exclude posts from selected authors"
+msgstr "Exclude posts from selected authors"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:92
+#: loco:5b6d4f67a08ef1676472d999
+msgid "Categories List"
+msgstr "Categories List"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:92
+#: loco:5b6d4f67a08ef1676472d99a
+msgid "Get entries associated with ANY of the selected category ids"
+msgstr "Get entries associated with ANY of the selected category ids"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:99
+#: loco:5b6d4f67a08ef1676472d99b
+msgid "Categories Exclude List"
+msgstr "Categories Exclude List"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:99
+#: loco:5b6d4f67a08ef1676472d99c
+msgid "Get entries NOT associated with any of the selected category ids"
+msgstr "Get entries NOT associated with any of the selected category ids"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:114
+#: loco:5b6d4f67a08ef1676472d99d
+msgid "Tags List"
+msgstr "Tags List"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:114
+#: loco:5b6d4f67a08ef1676472d99e
+msgid "Get entries having any of the selected tag ids"
+msgstr "Get entries having any of the selected tag ids"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:121
+#: loco:5b6d4f67a08ef1676472d99f
+msgid "Tags Exclude List"
+msgstr "Tags Exclude List"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:121
+#: loco:5b6d4f67a08ef1676472d9a0
+msgid "Get entries not having any of the selected tag ids"
+msgstr "Get entries not having any of the selected tag ids"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:136
+#: loco:5b6d4f67a08ef1676472d9a1
+msgid "Status"
+msgstr "Status"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:136
+#: loco:5b6d4f67a08ef1676472d9a2
+msgid "Get entries by selected status"
+msgstr "Get entries by selected status"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:143
+#: loco:5b6d4f67a08ef1676472d9a3
+msgid "Type"
+msgstr "Type"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:143,
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:190
+#: loco:5b6d4f67a08ef1676472d9a4
+msgid "Get entries by selected post type"
+msgstr "Get entries by selected post type"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:153,
+#: ../includes/plugins/contentmanager/lists/class-list-configuration.php:33,
+#: ../includes/plugins/contentmanager/lists/class-list-configuration.php:38,
+#: ../includes/plugins/contentmanager/lists/class-list-configuration.php:67,
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-status.php:68
+#: loco:5b6d4f67a08ef1676472d9a5
+msgid "List"
+msgstr "List"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:153
+#: loco:5b6d4f67a08ef1676472d9a6
+msgid "Get posts by id"
+msgstr "Get posts by id"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:160
+#: loco:5b6d4f67a08ef1676472d9a7
+msgid "Exclude List"
+msgstr "Exclude List"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:160
+#: loco:5b6d4f67a08ef1676472d9a8
+msgid "Exclude selected posts"
+msgstr "Exclude selected posts"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:171
+#: loco:5b6d4f67a08ef1676472d9a9
+msgid "Year"
+msgstr "Year"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:172
+#: loco:5b6d4f67a08ef1676472d9aa
+msgid "Month"
+msgstr "Month"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:173
+#: loco:5b6d4f67a08ef1676472d9ab
+msgid "Week"
+msgstr "Week"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:175
+#: loco:5b6d4f67a08ef1676472d9ac
+msgid "Day"
+msgstr "Day"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:176
+#: loco:5b6d4f67a08ef1676472d9ad
+msgid "Hour"
+msgstr "Hour"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:177
+#: loco:5b6d4f67a08ef1676472d9ae
+msgid "Minute"
+msgstr "Minute"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:178
+#: loco:5b6d4f67a08ef1676472d9af
+msgid "Second"
+msgstr "Second"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:185
+#: loco:5b6d4f67a08ef1676472d9b0
+msgid "Meta key"
+msgstr "Meta key"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:186
+#: loco:5b6d4f67a08ef1676472d9b1
+msgid "Meta value"
+msgstr "Meta value"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:188
+#: loco:5b6d4f67a08ef1676472d9b2
+msgid "Meta compare"
+msgstr "Meta compare"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:202,
+#: ../includes/plugins/contentmanager/lists/class-list-ui.php:77
+#: loco:5b6d4f67a08ef1676472d9b3
+msgid "Sort By"
+msgstr "Sort By"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:210,
+#: ../includes/plugins/contentmanager/lists/class-list-ui.php:85
+#: loco:5b6d4f67a08ef1676472d9b4
+msgid "Sorting Direction"
+msgstr "Sorting Direction"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:223
+#: loco:5b6d4f67a08ef1676472d9b5
+msgid "Posts Per Page"
+msgstr "Posts Per Page"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:230
+#: loco:5b6d4f67a08ef1676472d9b6
+msgid ""
+"By checking an option other than \"No related elements\" all the other "
+"options, except \"Sorting\" and \"Pagination\", will be overridden."
+msgstr ""
+"By checking an option other than \"No related elements\" all the other "
+"options, except \"Sorting\" and \"Pagination\", will be overridden."
+
+#: ../includes/plugins/contentmanager/lists/class-list-configuration.php:36
+#: loco:5b6d4f67a08ef1676472d9b7
+msgctxt "Post Type General Name"
+msgid "Lists"
+msgstr "Lists"
+
+#: ../includes/plugins/contentmanager/lists/class-list-configuration.php:37
+#: loco:5b6d4f67a08ef1676472d9b8
+msgctxt "Post Type Singular Name"
+msgid "List"
+msgstr "List"
+
+#: ../includes/plugins/contentmanager/lists/class-list-configuration.php:40
+#: loco:5b6d4f67a08ef1676472d9b9
+msgid "Lists"
+msgstr "Lists"
+
+#: ../includes/plugins/contentmanager/lists/class-list-configuration.php:41
+#: loco:5b6d4f67a08ef1676472d9ba
+msgid "View Lists"
+msgstr "View Lists"
+
+#: ../includes/plugins/contentmanager/lists/class-list-configuration.php:42,
+#: ../includes/plugins/contentmanager/lists/class-list-configuration.php:43
+#: loco:5b6d4f67a08ef1676472d9bb
+msgid "Add New List"
+msgstr "Add New List"
+
+#: ../includes/plugins/contentmanager/lists/class-list-configuration.php:44
+#: loco:5b6d4f67a08ef1676472d9bc
+msgid "Edit List"
+msgstr "Edit List"
+
+#: ../includes/plugins/contentmanager/lists/class-list-configuration.php:45
+#: loco:5b6d4f67a08ef1676472d9bd
+msgid "Update List"
+msgstr "Update List"
+
+#: ../includes/plugins/contentmanager/lists/class-list-configuration.php:46
+#: loco:5b6d4f67a08ef1676472d9be
+msgid "Search List"
+msgstr "Search List"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:28,
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:68,
+#: ../includes/plugins/contentmanager/lists/class-list-ui.php:27,
+#: ../includes/plugins/contentmanager/lists/class-list-ui.php:41
+#: loco:5b6d4f67a08ef1676472d9bf
+msgid "Taxonomy"
+msgstr "Taxonomy"
+
+#: ../includes/plugins/contentmanager/lists/class-list-ui.php:28
+#: loco:5b6d4f67a08ef1676472d9c0
+msgid "Term"
+msgstr "Term"
+
+#: ../includes/plugins/contentmanager/lists/class-list-ui.php:29,
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-search.php:36
+#: loco:5b6d4f67a08ef1676472d9c1
+msgid "Search"
+msgstr "Search"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:68,
+#: ../includes/plugins/contentmanager/lists/class-list-ui.php:41
+#: loco:5b6d4f67a08ef1676472d9c2
+msgid "A single taxonomy name, or a list of taxonomies."
+msgstr "A single taxonomy name, or a list of taxonomies."
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:77,
+#: ../includes/plugins/contentmanager/lists/class-list-ui.php:56
+#: loco:5b6d4f67a08ef1676472d9c3
+msgid "Term Name"
+msgstr "Term Name"
+
+#: ../includes/plugins/contentmanager/contents/class-content-ui.php:77,
+#: ../includes/plugins/contentmanager/lists/class-list-ui.php:56
+#: loco:5b6d4f67a08ef1676472d9c4
+msgid "Return term by names."
+msgstr "Return term by names."
+
+#: ../includes/plugins/contentmanager/lists/class-list-ui.php:69
+#: loco:5b6d4f67a08ef1676472d9c5
+msgid "Term Name Like"
+msgstr "Term Name Like"
+
+#: ../includes/plugins/contentmanager/lists/class-list-ui.php:69
+#: loco:5b6d4f67a08ef1676472d9c6
+msgid "Return terms with names like the criteria."
+msgstr "Return terms with names like the criteria."
+
+#: ../includes/plugins/contentmanager/lists/class-list-ui.php:99
+#: loco:5b6d4f67a08ef1676472d9c7
+msgid "Number of elements"
+msgstr "Number of elements"
+
+#: ../includes/plugins/contentmanager/lists/class-list-ui.php:100
+#: loco:5b6d4f67a08ef1676472d9c8
+msgid "Parent"
+msgstr "Parent"
+
+#: ../includes/plugins/contentmanager/models/query/class-query-contentterm.php:61,
+#: ../includes/plugins/contentmanager/models/query/class-query-term.php:55
+#: loco:5b6d4f67a08ef1676472d9c9
+msgid "Empty Term"
+msgstr "Empty Term"
+
+#. translators: Yearly archive title. 1: Year
+#: ../includes/misc/edd-functions.php:31,
+#: ../includes/plugins/contentmanager/settings/class-settings-blog.php:58
+#: loco:5b6d4f67a08ef1676472d9ca
+#, php-format
+msgid "Year: %s"
+msgstr "Year: %s"
+
+#: ../includes/misc/edd-functions.php:31,
+#: ../includes/plugins/contentmanager/settings/class-settings-blog.php:58
+#: loco:5b6d4f67a08ef1676472d9cb
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: Monthly archive title. 1: Month name and year
+#: ../includes/misc/edd-functions.php:33,
+#: ../includes/plugins/contentmanager/settings/class-settings-blog.php:61
+#: loco:5b6d4f67a08ef1676472d9cc
+#, php-format
+msgid "Month: %s"
+msgstr "Month: %s"
+
+#: ../includes/misc/edd-functions.php:33,
+#: ../includes/plugins/contentmanager/settings/class-settings-blog.php:61
+#: loco:5b6d4f67a08ef1676472d9cd
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: Daily archive title. 1: Date
+#: ../includes/misc/edd-functions.php:35,
+#: ../includes/plugins/contentmanager/settings/class-settings-blog.php:64
+#: loco:5b6d4f67a08ef1676472d9ce
+#, php-format
+msgid "Day: %s"
+msgstr "Day: %s"
+
+#: ../includes/misc/edd-functions.php:35,
+#: ../includes/plugins/contentmanager/settings/class-settings-blog.php:64
+#: loco:5b6d4f67a08ef1676472d9cf
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: ../includes/misc/edd-functions.php:38,
+#: ../includes/plugins/contentmanager/settings/class-settings-blog.php:67
+#: loco:5b6d4f67a08ef1676472d9d0
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Asides"
+
+#: ../includes/misc/edd-functions.php:40,
+#: ../includes/plugins/contentmanager/settings/class-settings-blog.php:69
+#: loco:5b6d4f67a08ef1676472d9d1
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galleries"
+
+#: ../includes/misc/edd-functions.php:42,
+#: ../includes/plugins/contentmanager/settings/class-settings-blog.php:71
+#: loco:5b6d4f67a08ef1676472d9d2
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Images"
+
+#: ../includes/misc/edd-functions.php:44,
+#: ../includes/plugins/contentmanager/settings/class-settings-blog.php:73
+#: loco:5b6d4f67a08ef1676472d9d3
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videos"
+
+#: ../includes/misc/edd-functions.php:46,
+#: ../includes/plugins/contentmanager/settings/class-settings-blog.php:75
+#: loco:5b6d4f67a08ef1676472d9d4
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Quotes"
+
+#: ../includes/misc/edd-functions.php:48,
+#: ../includes/plugins/contentmanager/settings/class-settings-blog.php:77
+#: loco:5b6d4f67a08ef1676472d9d5
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Links"
+
+#: ../includes/misc/edd-functions.php:50,
+#: ../includes/plugins/contentmanager/settings/class-settings-blog.php:79
+#: loco:5b6d4f67a08ef1676472d9d6
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statuses"
+
+#: ../includes/misc/edd-functions.php:52,
+#: ../includes/plugins/contentmanager/settings/class-settings-blog.php:81
+#: loco:5b6d4f67a08ef1676472d9d7
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: ../includes/misc/edd-functions.php:54,
+#: ../includes/plugins/contentmanager/settings/class-settings-blog.php:83
+#: loco:5b6d4f67a08ef1676472d9d8
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chats"
+
+#. translators: Post type archive title. 1: Post type name
+#: ../includes/plugins/contentmanager/settings/class-settings-blog.php:87
+#: loco:5b6d4f67a08ef1676472d9d9
+#, php-format
+msgid "Archives: %s"
+msgstr "Archives: %s"
+
+#. translators: Taxonomy term archive title. 1: Taxonomy singular name, 2: Current taxonomy term
+#: ../includes/plugins/contentmanager/settings/class-settings-blog.php:91
+#: loco:5b6d4f67a08ef1676472d9da
+#, php-format
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:360,
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:641,
+#: ../includes/plugins/contentmanager/settings/class-settings-configuration.php:29,
+#: ../includes/plugins/contentmanager/settings/class-settings-configuration.php:29,
+#: ../includes/plugins/contentmanager/settings/class-settings-manager.php:319,
+#: ../includes/plugins/contentmanager/settings/view/settings-view.php:6
+#: loco:5b6d4f67a08ef1676472d9db
+msgid "Settings"
+msgstr "Settings"
+
+#: ../includes/plugins/contentmanager/settings/class-settings-configuration.php:33
+#: loco:5b6d4f67a08ef1676472d9dc
+msgid "Import from webflow"
+msgstr "Import from webflow"
+
+#: ../includes/plugins/contentmanager/settings/class-settings-configuration.php:33,
+#: ../includes/plugins/contentmanager/settings/view/import-view.php:6
+#: loco:5b6d4f67a08ef1676472d9dd
+msgid "Import from Webflow"
+msgstr "Import from Webflow"
+
+#: ../includes/plugins/contentmanager/settings/class-settings-manager.php:199
+#: loco:5b6d4f67a08ef1676472d9de
+msgid "Setting saved!"
+msgstr "Setting saved!"
+
+#: ../includes/plugins/contentmanager/settings/class-settings-manager.php:236
+#: loco:5b6d4f67a08ef1676472d9df
+msgid "You need to select the website homepage, "
+msgstr "You need to select the website homepage, "
+
+#: ../includes/plugins/contentmanager/settings/class-settings-manager.php:236
+#: loco:5b6d4f67a08ef1676472d9e0
+msgid "go to Settings => reading."
+msgstr "go to Settings => reading."
+
+#: ../includes/plugins/contentmanager/settings/class-settings-manager.php:244
+#: loco:5b6d4f67a08ef1676472d9e1
+msgid "Please install the"
+msgstr "Please install the"
+
+#: ../includes/plugins/contentmanager/settings/class-settings-manager.php:244
+#: loco:5b6d4f67a08ef1676472d9e2
+msgid "in order to use Udesly."
+msgstr "in order to use Udesly."
+
+#: ../includes/plugins/contentmanager/settings/class-settings-manager.php:299
+#: loco:5b6d4f67a08ef1676472d9e3
+msgid "Import pages and data"
+msgstr "Import pages and data"
+
+#: ../includes/plugins/contentmanager/settings/class-settings-manager.php:311
+#: loco:5b6d4f67a08ef1676472d9e4
+msgid "Go to import page"
+msgstr "Go to import page"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-blog.php:29
+#: loco:5b6d4f67a08ef1676472d9e5
+msgid "Show the counter of child categories"
+msgstr "Show the counter of child categories"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-blog.php:31
+#: loco:5b6d4f67a08ef1676472d9e6
+msgid "Use the parent category template for subcategories"
+msgstr "Use the parent category template for subcategories"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-blog.php:33
+#: loco:5b6d4f67a08ef1676472d9e7
+msgid "Category elements max number"
+msgstr "Category elements max number"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-blog.php:33,
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-blog.php:35,
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-search.php:33
+#: loco:5b6d4f67a08ef1676472d9e8
+msgid "Set 0 to unlimited"
+msgstr "Set 0 to unlimited"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-blog.php:35,
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-search.php:33
+#: loco:5b6d4f67a08ef1676472d9e9
+msgid "Excerpt length"
+msgstr "Excerpt length"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-blog.php:36,
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-search.php:34
+#: loco:5b6d4f67a08ef1676472d9ea
+msgid "Excerpt more"
+msgstr "Excerpt more"
+
+#: ../includes/plugins/rules/rule/class-rule-is-category.php:66,
+#: ../includes/plugins/rules/rule/class-rule-is-tag.php:66,
+#: ../includes/plugins/rules/rule/class-rule-woo-is-category.php:66,
+#: ../includes/plugins/rules/rule/class-rule-woo-is-tag.php:66,
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-blog.php:39,
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-edd.php:34
+#: loco:5b6d4f67a08ef1676472d9eb
+msgid "None"
+msgstr "None"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-blog.php:40,
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-edd.php:35
+#: loco:5b6d4f67a08ef1676472d9ec
+msgid "Show direct children"
+msgstr "Show direct children"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-blog.php:41,
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-edd.php:36
+#: loco:5b6d4f67a08ef1676472d9ed
+msgid "Show all children"
+msgstr "Show all children"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-blog.php:42
+#: loco:5b6d4f67a08ef1676472d9ee
+msgid ""
+"Display blog categories in archive page (Webflow \"archive categories\" "
+"element required)"
+msgstr ""
+"Display blog categories in archive page (Webflow \"archive categories\" "
+"element required)"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-blog.php:46
+#: loco:5b6d4f67a08ef1676472d9ef
+msgid "Blog category title"
+msgstr "Blog category title"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-blog.php:48
+#: loco:5b6d4f67a08ef1676472d9f0
+msgid "Blog tag title"
+msgstr "Blog tag title"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-blog.php:50
+#: loco:5b6d4f67a08ef1676472d9f1
+msgid "Blog author title"
+msgstr "Blog author title"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-blog.php:52
+#: loco:5b6d4f67a08ef1676472d9f2
+msgid "Blog archive title"
+msgstr "Blog archive title"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-blog.php:57
+#: loco:5b6d4f67a08ef1676472d9f3
+msgid "Blog"
+msgstr "Blog"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-email.php:37
+#: loco:5b6d4f67a08ef1676472d9f4
+msgid "Welcome email"
+msgstr "Welcome email"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-email.php:39
+#: loco:5b6d4f67a08ef1676472d9f5
+msgid "Enable welcome email"
+msgstr "Enable welcome email"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-email.php:41
+#: loco:5b6d4f67a08ef1676472d9f6
+msgid "Subject"
+msgstr "Subject"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-email.php:43
+#: loco:5b6d4f67a08ef1676472d9f7
+msgid "Message"
+msgstr "Message"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-email.php:45
+#: loco:5b6d4f67a08ef1676472d9f8
+msgid "You can use the following placeholders: "
+msgstr "You can use the following placeholders: "
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-email.php:47
+#: loco:5b6d4f67a08ef1676472d9f9
+msgid "username of the registered user"
+msgstr "username of the registered user"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-email.php:48
+#: loco:5b6d4f67a08ef1676472d9fa
+msgid "site title as defined in WP general settings"
+msgstr "site title as defined in WP general settings"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-email.php:49
+#: loco:5b6d4f67a08ef1676472d9fb
+msgid "first name entered by user on registration"
+msgstr "first name entered by user on registration"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-email.php:50
+#: loco:5b6d4f67a08ef1676472d9fc
+msgid "last name entered by user on registration"
+msgstr "last name entered by user on registration"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-email.php:51
+#: loco:5b6d4f67a08ef1676472d9fd
+msgid "home site link"
+msgstr "home site link"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-email.php:53
+#: loco:5b6d4f67a08ef1676472d9fe
+msgid "Email"
+msgstr "Email"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-frontend-editor.php:36
+#: loco:5b6d4f67a08ef1676472d9ff
+msgid "No additional role"
+msgstr "No additional role"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-frontend-editor.php:39
+#: loco:5b6d4f67a08ef1676472da00
+msgid "Enable Frontend Editor"
+msgstr "Enable Frontend Editor"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-frontend-editor.php:41
+#: loco:5b6d4f67a08ef1676472da01
+msgid "Additional user role"
+msgstr "Additional user role"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-frontend-editor.php:41
+#: loco:5b6d4f67a08ef1676472da02
+msgid ""
+"Allow user with this specific role to use frontend editor along with "
+"administrator"
+msgstr ""
+"Allow user with this specific role to use frontend editor along with "
+"administrator"
+
+#: ../includes/plugins/frontendeditor/class-frontendeditor-configuration.php:31,
+#: ../includes/plugins/frontendeditor/class-frontendeditor-configuration.php:32,
+#: ../includes/plugins/frontendeditor/class-frontendeditor-configuration.php:42,
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-frontend-editor.php:42
+#: loco:5b6d4f67a08ef1676472da03
+msgid "Frontend Editor"
+msgstr "Frontend Editor"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-pagination.php:28
+#: loco:5b6d4f67a08ef1676472da04
+msgid "Pagination mid size"
+msgstr "Pagination mid size"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-pagination.php:30
+#: loco:5b6d4f67a08ef1676472da05
+msgid "Pagination end size"
+msgstr "Pagination end size"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-search.php:29
+#: loco:5b6d4f67a08ef1676472da06
+msgid "If there is only one match, directly redirect to the result"
+msgstr "If there is only one match, directly redirect to the result"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-search.php:31
+#: loco:5b6d4f67a08ef1676472da07
+msgid "Search results per page"
+msgstr "Search results per page"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-temporary-page.php:30
+#: loco:5b6d4f67a08ef1676472da08
+msgid "Enable temporary page"
+msgstr "Enable temporary page"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-temporary-page.php:37
+#: loco:5b6d4f67a08ef1676472da09
+msgid "Temporary page"
+msgstr "Temporary page"
+
+#: ../includes/plugins/contentmanager/settings/view/settings-view.php:11
+#: loco:5b6d4f67a08ef1676472da0a
+msgid "Save"
+msgstr "Save"
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-custom-fields.php:33
+#: loco:5b6d4f67a08ef1676472da0b
+msgid "No custom fields found!"
+msgstr "No custom fields found!"
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-custom-fields.php:37
+#: loco:5b6d4f67a08ef1676472da0c
+msgid ""
+"The list below shows the custom fields added in your Webflow project that "
+"you can use in WordPress."
+msgstr ""
+"The list below shows the custom fields added in your Webflow project that "
+"you can use in WordPress."
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-custom-fields.php:53
+#: loco:5b6d4f67a08ef1676472da0d
+msgid "Custom fields"
+msgstr "Custom fields"
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:30
+#: loco:5b6d4f67a08ef1676472da0e
+msgid "Click to import Webflow pages and frontend editor data into Wordpress"
+msgstr "Click to import Webflow pages and frontend editor data into Wordpress"
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:32
+#: loco:5b6d4f67a08ef1676472da0f
+msgid "Import pages and frontend editor data"
+msgstr "Import pages and frontend editor data"
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:35
+#: loco:5b6d4f67a08ef1676472da10
+msgid "Click to delete all the imported Wordpress pages"
+msgstr "Click to delete all the imported Wordpress pages"
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:37
+#: loco:5b6d4f67a08ef1676472da11
+msgid "Delete all imported pages"
+msgstr "Delete all imported pages"
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:40
+#: loco:5b6d4f67a08ef1676472da12
+msgid "Click to delete all the frontend editor elements"
+msgstr "Click to delete all the frontend editor elements"
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:42
+#: loco:5b6d4f67a08ef1676472da13
+msgid "Delete all frontend editor elements"
+msgstr "Delete all frontend editor elements"
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:54
+#: loco:5b6d4f67a08ef1676472da14
+msgid "Pages and data imported succesfully"
+msgstr "Pages and data imported succesfully"
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:55
+#: loco:5b6d4f67a08ef1676472da15
+msgid "Install and activate the WordPress importer plugin"
+msgstr "Install and activate the WordPress importer plugin"
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:56
+#: loco:5b6d4f67a08ef1676472da16
+msgid "The udesly_exported_pages.xml file is missing"
+msgstr "The udesly_exported_pages.xml file is missing"
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:59
+#: loco:5b6d4f67a08ef1676472da17
+msgid "Pages deleted succesfully, make sure to import again"
+msgstr "Pages deleted succesfully, make sure to import again"
+
+#: ../includes/utils/class-utils.php:209,
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:60
+#: loco:5b6d4f67a08ef1676472da18
+msgid "Can't delete WordPress pages"
+msgstr "Can't delete WordPress pages"
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:63
+#: loco:5b6d4f67a08ef1676472da19
+msgid ""
+"Frontend editor elements deleted succesfully, make sure to import data again"
+msgstr ""
+"Frontend editor elements deleted succesfully, make sure to import data again"
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:64
+#: loco:5b6d4f67a08ef1676472da1a
+msgid "Can't delete frontend editor elements "
+msgstr "Can't delete frontend editor elements "
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:71
+#: loco:5b6d4f67a08ef1676472da1b
+msgid " You need to install and activate the"
+msgstr " You need to install and activate the"
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:71
+#: loco:5b6d4f67a08ef1676472da1c
+msgid "in order to manage Webflow data."
+msgstr "in order to manage Webflow data."
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:73
+#: loco:5b6d4f67a08ef1676472da1d
+msgid "Webflow data"
+msgstr "Webflow data"
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-status.php:33
+#: loco:5b6d4f67a08ef1676472da1e
+msgid "No missing elements found!"
+msgstr "No missing elements found!"
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-status.php:37
+#: loco:5b6d4f67a08ef1676472da1f
+msgid ""
+"The table below lists the missing elements used in your Webflow project that "
+"you need to create in WordPress through the Udesly plugin in order to have "
+"the converted theme working perfectly!"
+msgstr ""
+"The table below lists the missing elements used in your Webflow project that "
+"you need to create in WordPress through the Udesly plugin in order to have "
+"the converted theme working perfectly!"
+
+#: ../includes/plugins/rules/class-rules-configuration.php:42,
+#: ../includes/plugins/rules/class-rules-configuration.php:47,
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-status.php:59
+#: loco:5b6d4f67a08ef1676472da20
+msgid "Rule"
+msgstr "Rule"
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:305,
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:651,
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-status.php:77
+#: loco:5b6d4f67a08ef1676472da21
+msgid "Custom Type"
+msgstr "Custom Type"
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-status.php:85
+#: loco:5b6d4f67a08ef1676472da22
+msgid "Menu"
+msgstr "Menu"
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-status.php:97
+#: loco:5b6d4f67a08ef1676472da23
+msgid "Missing elements"
+msgstr "Missing elements"
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:68
+#: loco:5b6d4f67a08ef1676472da24
+msgid "Archives"
+msgstr "Archives"
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:69
+#: loco:5b6d4f67a08ef1676472da25
+msgid "Attributes"
+msgstr "Attributes"
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:71,
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:128,
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:129
+#: loco:5b6d4f67a08ef1676472da26
+msgid "All "
+msgstr "All "
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:72
+#: loco:5b6d4f67a08ef1676472da27
+msgid "Add New "
+msgstr "Add New "
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:73
+#: loco:5b6d4f67a08ef1676472da28
+msgid "Add New"
+msgstr "Add New"
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:74,
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:134
+#: loco:5b6d4f67a08ef1676472da29
+msgid "New "
+msgstr "New "
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:75,
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:130
+#: loco:5b6d4f67a08ef1676472da2a
+msgid "Edit "
+msgstr "Edit "
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:76,
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:132
+#: loco:5b6d4f67a08ef1676472da2b
+msgid "Update "
+msgstr "Update "
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:77,
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:78,
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:131
+#: loco:5b6d4f67a08ef1676472da2c
+msgid "View "
+msgstr "View "
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:79,
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:135
+#: loco:5b6d4f67a08ef1676472da2d
+msgid "Search "
+msgstr "Search "
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:83
+#: loco:5b6d4f67a08ef1676472da2e
+msgid "Set featured image"
+msgstr "Set featured image"
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:84
+#: loco:5b6d4f67a08ef1676472da2f
+msgid "Remove featured image"
+msgstr "Remove featured image"
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:85
+#: loco:5b6d4f67a08ef1676472da30
+msgid "Use as featured image"
+msgstr "Use as featured image"
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:86
+#: loco:5b6d4f67a08ef1676472da31
+msgid "Insert into item"
+msgstr "Insert into item"
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:87
+#: loco:5b6d4f67a08ef1676472da32
+msgid "Uploaded to this item"
+msgstr "Uploaded to this item"
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:88
+#: loco:5b6d4f67a08ef1676472da33
+msgid "Items list"
+msgstr "Items list"
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:89
+#: loco:5b6d4f67a08ef1676472da34
+msgid "Items list navigation"
+msgstr "Items list navigation"
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:90
+#: loco:5b6d4f67a08ef1676472da35
+msgid "Filter items list"
+msgstr "Filter items list"
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:94
+#: loco:5b6d4f67a08ef1676472da36
+msgid " Description"
+msgstr " Description"
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:133
+#: loco:5b6d4f67a08ef1676472da37
+msgid "Add new "
+msgstr "Add new "
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:136
+#: loco:5b6d4f67a08ef1676472da38
+msgid "Popular "
+msgstr "Popular "
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:137
+#: loco:5b6d4f67a08ef1676472da39
+msgid "Separate "
+msgstr "Separate "
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:138
+#: loco:5b6d4f67a08ef1676472da3a
+msgid "Add or remove "
+msgstr "Add or remove "
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:139
+#: loco:5b6d4f67a08ef1676472da3b
+msgid "Choose most used "
+msgstr "Choose most used "
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:140
+#: loco:5b6d4f67a08ef1676472da3c
+msgid "No "
+msgstr "No "
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:232
+#: loco:5b6d4f67a08ef1676472da3d
+msgid "View Custom Types"
+msgstr "View Custom Types"
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:240
+#: loco:5b6d4f67a08ef1676472da3e
+msgid "View all"
+msgstr "View all"
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:304,
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:650,
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:655
+#: loco:5b6d4f67a08ef1676472da3f
+msgid "Custom Types"
+msgstr "Custom Types"
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:652
+#: loco:5b6d4f67a08ef1676472da40
+msgid "Add New Custom Type"
+msgstr "Add New Custom Type"
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:653
+#: loco:5b6d4f67a08ef1676472da41
+msgid "Add Custom Type"
+msgstr "Add Custom Type"
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:654
+#: loco:5b6d4f67a08ef1676472da42
+msgid "Edit Custom Types"
+msgstr "Edit Custom Types"
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:656
+#: loco:5b6d4f67a08ef1676472da43
+msgid "View Custom Type"
+msgstr "View Custom Type"
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:657
+#: loco:5b6d4f67a08ef1676472da44
+msgid "Search Custom Types"
+msgstr "Search Custom Types"
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:658
+#: loco:5b6d4f67a08ef1676472da45
+msgid "No Custom Types found"
+msgstr "No Custom Types found"
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:659
+#: loco:5b6d4f67a08ef1676472da46
+msgid "No Custom Types found in Trash"
+msgstr "No Custom Types found in Trash"
+
+#: ../includes/plugins/form/class-ajax.php:37 loco:5b6d4f67a08ef1676472da47
+msgid "Someone sent a message from "
+msgstr "Someone sent a message from "
+
+#: ../includes/plugins/form/class-ajax.php:63 loco:5b6d4f67a08ef1676472da48
+msgid "New message from "
+msgstr "New message from "
+
+#: ../includes/plugins/frontendeditor/class-frontendeditor-configuration.php:54
+#: loco:5b6d4f67a08ef1676472da49
+msgid "Frontend editor elements succesfully deleted"
+msgstr "Frontend editor elements succesfully deleted"
+
+#: ../includes/plugins/rules/class-rules-configuration.php:45
+#: loco:5b6d4f67a08ef1676472da4a
+msgctxt "Post Type General Name"
+msgid "Rules"
+msgstr "Rules"
+
+#: ../includes/plugins/rules/class-rules-configuration.php:46
+#: loco:5b6d4f67a08ef1676472da4b
+msgctxt "Post Type Singular Name"
+msgid "Rule"
+msgstr "Rule"
+
+#: ../includes/plugins/rules/class-rules-configuration.php:49,
+#: ../includes/plugins/rules/class-rules-configuration.php:76,
+#: ../includes/plugins/rules/class-rules-configuration.php:151
+#: loco:5b6d4f67a08ef1676472da4c
+msgid "Rules"
+msgstr "Rules"
+
+#: ../includes/plugins/rules/class-rules-configuration.php:50
+#: loco:5b6d4f67a08ef1676472da4d
+msgid "View Rules"
+msgstr "View Rules"
+
+#: ../includes/plugins/rules/class-rules-configuration.php:51,
+#: ../includes/plugins/rules/class-rules-configuration.php:52
+#: loco:5b6d4f67a08ef1676472da4e
+msgid "Add New Rule"
+msgstr "Add New Rule"
+
+#: ../includes/plugins/rules/class-rules-configuration.php:53
+#: loco:5b6d4f67a08ef1676472da4f
+msgid "Edit Rule"
+msgstr "Edit Rule"
+
+#: ../includes/plugins/rules/class-rules-configuration.php:54
+#: loco:5b6d4f67a08ef1676472da50
+msgid "Update Rule"
+msgstr "Update Rule"
+
+#: ../includes/plugins/rules/class-rules-configuration.php:55
+#: loco:5b6d4f67a08ef1676472da51
+msgid "Search Rule"
+msgstr "Search Rule"
+
+#: ../includes/plugins/rules/class-rules-configuration.php:83
+#: loco:5b6d4f67a08ef1676472da52
+msgid "Redirect rules"
+msgstr "Redirect rules"
+
+#: ../includes/plugins/rules/class-rules-configuration.php:97
+#: loco:5b6d4f67a08ef1676472da53
+msgid "No redirect"
+msgstr "No redirect"
+
+#: ../includes/plugins/rules/class-rules-configuration.php:103
+#: loco:5b6d4f67a08ef1676472da54
+msgid "Redirect if selected rule is satisfied."
+msgstr "Redirect if selected rule is satisfied."
+
+#: ../includes/plugins/rules/rule/class-rule-always.php:38
+#: loco:5b6d4f67a08ef1676472da55
+msgid "Always"
+msgstr "Always"
+
+#: ../includes/plugins/rules/rule/class-rule-controller.php:45,
+#: ../includes/plugins/rules/rule/class-rule-controller.php:49
+#: loco:5b6d4f67a08ef1676472da56
+msgid "Invalid Rules"
+msgstr "Invalid Rules"
+
+#: ../includes/ui/class-ui-assets.php:37,
+#: ../includes/plugins/rules/rule/class-rule-controller.php:135,
+#: ../includes/plugins/rules/rule/class-rule-controller.php:149
+#: loco:5b6d4f67a08ef1676472da57
+msgid "Apply this rules:"
+msgstr "Apply this rules:"
+
+#: ../includes/ui/class-ui-assets.php:36,
+#: ../includes/plugins/rules/rule/class-rule-controller.php:145
+#: loco:5b6d4f67a08ef1676472da58
+msgid "AND"
+msgstr "AND"
+
+#: ../includes/ui/class-ui-assets.php:35,
+#: ../includes/plugins/rules/rule/class-rule-controller.php:147
+#: loco:5b6d4f67a08ef1676472da59
+msgid "OR"
+msgstr "OR"
+
+#: ../includes/plugins/rules/rule/class-rule-edd-has-user-purchased.php:22
+#: loco:5b6d4f67a08ef1676472da5a
+msgid "[EDD] Download purchase"
+msgstr "[EDD] Download purchase"
+
+#: ../includes/plugins/rules/rule/class-rule-edd-has-user-purchased.php:71
+#: loco:5b6d4f67a08ef1676472da5b
+msgid "has user purchased"
+msgstr "has user purchased"
+
+#: ../includes/plugins/rules/rule/class-rule-edd-has-user-purchased.php:72
+#: loco:5b6d4f67a08ef1676472da5c
+msgid "has not user purchased"
+msgstr "has not user purchased"
+
+#: ../includes/plugins/rules/rule/class-rule-has-subcategories.php:22
+#: loco:5b6d4f67a08ef1676472da5d
+msgid "Has Subcategories"
+msgstr "Has Subcategories"
+
+#: ../includes/plugins/rules/rule/class-rule-has-subcategories.php:55,
+#: ../includes/plugins/rules/rule/class-rule-woo-has-subcategories.php:55
+#: loco:5b6d4f67a08ef1676472da5e
+msgid "has subcategories"
+msgstr "has subcategories"
+
+#: ../includes/plugins/rules/rule/class-rule-has-subcategories.php:56,
+#: ../includes/plugins/rules/rule/class-rule-woo-has-subcategories.php:56
+#: loco:5b6d4f67a08ef1676472da5f
+msgid "doesn't have subcategories"
+msgstr "doesn't have subcategories"
+
+#: ../includes/plugins/rules/rule/class-rule-is-archive.php:22
+#: loco:5b6d4f67a08ef1676472da60
+msgid "Archive"
+msgstr "Archive"
+
+#: ../includes/plugins/rules/rule/class-rule-is-archive.php:56
+#: loco:5b6d4f67a08ef1676472da61
+msgid "is archive page"
+msgstr "is archive page"
+
+#: ../includes/plugins/rules/rule/class-rule-is-archive.php:57
+#: loco:5b6d4f67a08ef1676472da62
+msgid "is not archive page"
+msgstr "is not archive page"
+
+#: ../includes/plugins/rules/rule/class-rule-is-category.php:63,
+#: ../includes/plugins/rules/rule/class-rule-woo-is-category.php:63
+#: loco:5b6d4f67a08ef1676472da63
+msgid "is category"
+msgstr "is category"
+
+#: ../includes/plugins/rules/rule/class-rule-is-category.php:64,
+#: ../includes/plugins/rules/rule/class-rule-woo-is-category.php:64
+#: loco:5b6d4f67a08ef1676472da64
+msgid "is not category"
+msgstr "is not category"
+
+#: ../includes/plugins/rules/rule/class-rule-is-category.php:65,
+#: ../includes/plugins/rules/rule/class-rule-is-tag.php:65,
+#: ../includes/plugins/rules/rule/class-rule-woo-is-category.php:65,
+#: ../includes/plugins/rules/rule/class-rule-woo-is-tag.php:65
+#: loco:5b6d4f67a08ef1676472da65
+msgid "Any"
+msgstr "Any"
+
+#: ../includes/plugins/rules/rule/class-rule-is-home.php:22
+#: loco:5b6d4f67a08ef1676472da66
+msgid "Main Blog Page"
+msgstr "Main Blog Page"
+
+#: ../includes/plugins/rules/rule/class-rule-is-home.php:56
+#: loco:5b6d4f67a08ef1676472da67
+msgid "is main blog page"
+msgstr "is main blog page"
+
+#: ../includes/plugins/rules/rule/class-rule-is-home.php:57
+#: loco:5b6d4f67a08ef1676472da68
+msgid "is not main blog page"
+msgstr "is not main blog page"
+
+#: ../includes/plugins/rules/rule/class-rule-is-post-type-archive.php:22
+#: loco:5b6d4f67a08ef1676472da69
+msgid "Post Type Archive"
+msgstr "Post Type Archive"
+
+#: ../includes/plugins/rules/rule/class-rule-is-post-type-archive.php:64
+#: loco:5b6d4f67a08ef1676472da6a
+msgid "is post type archive page"
+msgstr "is post type archive page"
+
+#: ../includes/plugins/rules/rule/class-rule-is-post-type-archive.php:65
+#: loco:5b6d4f67a08ef1676472da6b
+msgid "is not post type  archive page"
+msgstr "is not post type  archive page"
+
+#: ../includes/plugins/rules/rule/class-rule-is-subcategory.php:22,
+#: ../includes/plugins/rules/rule/class-rule-is-subcategory.php:55
+#: loco:5b6d4f67a08ef1676472da6c
+msgid "Is Subcategory"
+msgstr "Is Subcategory"
+
+#: ../includes/plugins/rules/rule/class-rule-is-subcategory.php:56
+#: loco:5b6d4f67a08ef1676472da6d
+msgid "Is not a subcategory"
+msgstr "Is not a subcategory"
+
+#: ../includes/plugins/rules/rule/class-rule-is-tag.php:63,
+#: ../includes/plugins/rules/rule/class-rule-woo-is-tag.php:63
+#: loco:5b6d4f67a08ef1676472da6e
+msgid "is tag"
+msgstr "is tag"
+
+#: ../includes/plugins/rules/rule/class-rule-is-tag.php:64,
+#: ../includes/plugins/rules/rule/class-rule-woo-is-tag.php:64
+#: loco:5b6d4f67a08ef1676472da6f
+msgid "is not tag"
+msgstr "is not tag"
+
+#: ../includes/plugins/rules/rule/class-rule-logged-in.php:22
+#: loco:5b6d4f67a08ef1676472da70
+msgid "Login status"
+msgstr "Login status"
+
+#: ../includes/plugins/rules/rule/class-rule-logged-in.php:55
+#: loco:5b6d4f67a08ef1676472da71
+msgid "logged in"
+msgstr "logged in"
+
+#: ../includes/plugins/rules/rule/class-rule-logged-in.php:56
+#: loco:5b6d4f67a08ef1676472da72
+msgid "not logged in"
+msgstr "not logged in"
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-can-access.php:22
+#: loco:5b6d4f67a08ef1676472da73
+msgid "[RCP] User Access"
+msgstr "[RCP] User Access"
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-can-access.php:55
+#: loco:5b6d4f67a08ef1676472da74
+msgid "Can Access"
+msgstr "Can Access"
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-can-access.php:56
+#: loco:5b6d4f67a08ef1676472da75
+msgid "Cannot Access"
+msgstr "Cannot Access"
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-has-subscription.php:22
+#: loco:5b6d4f67a08ef1676472da76
+msgid "[RCP] Has Subscription"
+msgstr "[RCP] Has Subscription"
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-has-subscription.php:61
+#: loco:5b6d4f67a08ef1676472da77
+msgid "User has subscription"
+msgstr "User has subscription"
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-has-subscription.php:62
+#: loco:5b6d4f67a08ef1676472da78
+msgid "User doesn't have subscription"
+msgstr "User doesn't have subscription"
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-has-used-trial.php:22
+#: loco:5b6d4f67a08ef1676472da79
+msgid "[RCP] Trial Usage"
+msgstr "[RCP] Trial Usage"
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-has-used-trial.php:55
+#: loco:5b6d4f67a08ef1676472da7a
+msgid "User used trial"
+msgstr "User used trial"
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-has-used-trial.php:56
+#: loco:5b6d4f67a08ef1676472da7b
+msgid "User has not used trial"
+msgstr "User has not used trial"
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-active.php:22
+#: loco:5b6d4f67a08ef1676472da7c
+msgid "[RCP] Subscription Active"
+msgstr "[RCP] Subscription Active"
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-active.php:55
+#: loco:5b6d4f67a08ef1676472da7d
+msgid "Has active subscription"
+msgstr "Has active subscription"
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-active.php:56
+#: loco:5b6d4f67a08ef1676472da7e
+msgid "Doesn't have active subscription"
+msgstr "Doesn't have active subscription"
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-expired.php:22
+#: loco:5b6d4f67a08ef1676472da7f
+msgid "[RCP] Subscription Expired"
+msgstr "[RCP] Subscription Expired"
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-expired.php:55
+#: loco:5b6d4f67a08ef1676472da80
+msgid "Has expired subscription"
+msgstr "Has expired subscription"
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-expired.php:56
+#: loco:5b6d4f67a08ef1676472da81
+msgid "Doesn't have expired subscription"
+msgstr "Doesn't have expired subscription"
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-paid-content.php:22
+#: loco:5b6d4f67a08ef1676472da82
+msgid "[RCP] Paid Content"
+msgstr "[RCP] Paid Content"
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-paid-content.php:55
+#: loco:5b6d4f67a08ef1676472da83
+msgid "Is paid content"
+msgstr "Is paid content"
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-paid-content.php:56
+#: loco:5b6d4f67a08ef1676472da84
+msgid "Is not paid content"
+msgstr "Is not paid content"
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-pending-verification.php:22
+#: loco:5b6d4f67a08ef1676472da85
+msgid "[RCP] Pending Email Verification"
+msgstr "[RCP] Pending Email Verification"
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-pending-verification.php:55
+#: loco:5b6d4f67a08ef1676472da86
+msgid "Is pending email verification"
+msgstr "Is pending email verification"
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-pending-verification.php:56
+#: loco:5b6d4f67a08ef1676472da87
+msgid "Is not pending email verification"
+msgstr "Is not pending email verification"
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-restricted-content.php:22
+#: loco:5b6d4f67a08ef1676472da88
+msgid "[RCP] Restricted Content"
+msgstr "[RCP] Restricted Content"
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-restricted-content.php:55
+#: loco:5b6d4f67a08ef1676472da89
+msgid "Is restricted content"
+msgstr "Is restricted content"
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-restricted-content.php:56
+#: loco:5b6d4f67a08ef1676472da8a
+msgid "Is not restricted content"
+msgstr "Is not restricted content"
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-trialing.php:22
+#: loco:5b6d4f67a08ef1676472da8b
+msgid "[RCP] Subscription Trialing"
+msgstr "[RCP] Subscription Trialing"
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-trialing.php:55
+#: loco:5b6d4f67a08ef1676472da8c
+msgid "Is user trialing"
+msgstr "Is user trialing"
+
+#: ../includes/plugins/rules/rule/class-rule-rcp-is-trialing.php:56
+#: loco:5b6d4f67a08ef1676472da8d
+msgid "Is not user trialing"
+msgstr "Is not user trialing"
+
+#: ../includes/plugins/rules/rule/class-rule-role.php:22
+#: loco:5b6d4f67a08ef1676472da8e
+msgid "User Role"
+msgstr "User Role"
+
+#: ../includes/plugins/rules/rule/class-rule-role.php:61,
+#: ../includes/plugins/rules/rule/class-rule-user.php:65,
+#: ../includes/plugins/rules/rule/class-rule-woo-has-user-purchased.php:66,
+#: ../includes/plugins/rules/rule/class-rule-woo-products.php:65
+#: loco:5b6d4f67a08ef1676472da8f
+msgid "is"
+msgstr "is"
+
+#: ../includes/plugins/rules/rule/class-rule-role.php:62,
+#: ../includes/plugins/rules/rule/class-rule-user.php:66,
+#: ../includes/plugins/rules/rule/class-rule-woo-has-user-purchased.php:67,
+#: ../includes/plugins/rules/rule/class-rule-woo-products.php:66
+#: loco:5b6d4f67a08ef1676472da90
+msgid "is not"
+msgstr "is not"
+
+#: ../includes/plugins/rules/rule/class-rule-user.php:22
+#: loco:5b6d4f67a08ef1676472da91
+msgid "User"
+msgstr "User"
+
+#: ../includes/plugins/wplogin/class-ajax.php:63 loco:5b6d4f67a08ef1676472da92
+msgid "Enter a username or e-mail address."
+msgstr "Enter a username or e-mail address."
+
+#: ../includes/plugins/wplogin/class-ajax.php:67 loco:5b6d4f67a08ef1676472da93
+msgid "There is no user registered with that email address."
+msgstr "There is no user registered with that email address."
+
+#: ../includes/plugins/wplogin/class-ajax.php:82 loco:5b6d4f67a08ef1676472da94
+msgid "Invalid username or email."
+msgstr "Invalid username or email."
+
+#: ../includes/plugins/wplogin/class-ajax.php:97 loco:5b6d4f67a08ef1676472da95
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+"Someone requested that the password be reset for the following account:"
+
+#: ../includes/plugins/wplogin/class-ajax.php:99 loco:5b6d4f67a08ef1676472da96
+#, php-format
+msgid "Username: %s"
+msgstr "Username: %s"
+
+#: ../includes/plugins/wplogin/class-ajax.php:100 loco:5b6d4f67a08ef1676472da97
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr "If this was a mistake, just ignore this email and nothing will happen."
+
+#: ../includes/plugins/wplogin/class-ajax.php:101 loco:5b6d4f67a08ef1676472da98
+msgid "To reset your password, visit the following address:"
+msgstr "To reset your password, visit the following address:"
+
+#: ../includes/plugins/wplogin/class-ajax.php:114 loco:5b6d4f67a08ef1676472da99
+#, php-format
+msgid "%s - Password Reset"
+msgstr "%s - Password Reset"
+
+#: ../includes/plugins/wplogin/class-ajax.php:123 loco:5b6d4f67a08ef1676472da9a
+msgid "The e-mail could not be sent."
+msgstr "The e-mail could not be sent."
+
+#: ../includes/plugins/wplogin/class-ajax.php:153,
+#: ../includes/plugins/wplogin/class-ajax.php:214 loco:5b6d4f67a08ef1676472da9b
+msgid "Password is required field"
+msgstr "Password is required field"
+
+#: ../includes/plugins/wplogin/class-ajax.php:157,
+#: ../includes/plugins/wplogin/class-ajax.php:220 loco:5b6d4f67a08ef1676472da9c
+msgid "The passwords do not match."
+msgstr "The passwords do not match."
+
+#: ../includes/plugins/wplogin/class-ajax.php:161,
+#: ../includes/plugins/wplogin/class-ajax.php:226 loco:5b6d4f67a08ef1676472da9d
+msgid "The passwords is too short, min. 6 characters."
+msgstr "The passwords is too short, min. 6 characters."
+
+#: ../includes/plugins/wplogin/class-ajax.php:186 loco:5b6d4f67a08ef1676472da9e
+msgid "Sorry, registration is not currently allowed"
+msgstr "Sorry, registration is not currently allowed"
+
+#: ../includes/ui/class-wp-list-table.php:154 loco:5b6d4f67a08ef1676472da9f
+msgid "List View"
+msgstr "List View"
+
+#: ../includes/ui/class-wp-list-table.php:155 loco:5b6d4f67a08ef1676472daa0
+msgid "Excerpt View"
+msgstr "Excerpt View"
+
+#: ../includes/ui/class-wp-list-table.php:315 loco:5b6d4f67a08ef1676472daa1
+msgid "No items found."
+msgstr "No items found."
+
+#: ../includes/ui/class-wp-list-table.php:437 loco:5b6d4f67a08ef1676472daa2
+msgid "Select bulk action"
+msgstr "Select bulk action"
+
+#: ../includes/ui/class-wp-list-table.php:439 loco:5b6d4f67a08ef1676472daa3
+msgid "Bulk Actions"
+msgstr "Bulk Actions"
+
+#: ../includes/ui/class-wp-list-table.php:449 loco:5b6d4f67a08ef1676472daa4
+msgid "Apply"
+msgstr "Apply"
+
+#: ../includes/ui/class-wp-list-table.php:497,
+#: ../includes/ui/class-wp-list-table.php:1275 loco:5b6d4f67a08ef1676472daa5
+msgid "Show more details"
+msgstr "Show more details"
+
+#: ../includes/ui/class-wp-list-table.php:559 loco:5b6d4f67a08ef1676472daa6
+msgid "Filter by date"
+msgstr "Filter by date"
+
+#: ../includes/ui/class-wp-list-table.php:561 loco:5b6d4f67a08ef1676472daa7
+msgid "All dates"
+msgstr "All dates"
+
+#. translators: 1: month name, 2: 4-digit year
+#: ../includes/ui/class-wp-list-table.php:574 loco:5b6d4f67a08ef1676472daa8
+#, php-format
+msgid "%1$s %2$d"
+msgstr "%1$s %2$d"
+
+#: ../includes/ui/class-wp-list-table.php:624 loco:5b6d4f67a08ef1676472daa9
+#, php-format
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s comment"
+msgstr[1] "%s comments"
+
+#: ../includes/ui/class-wp-list-table.php:625 loco:5b6d4f67a08ef1676472daab
+#, php-format
+msgid "%s approved comment"
+msgid_plural "%s approved comments"
+msgstr[0] "%s approved comment"
+msgstr[1] "%s approved comments"
+
+#: ../includes/ui/class-wp-list-table.php:626 loco:5b6d4f67a08ef1676472daad
+#, php-format
+msgid "%s pending comment"
+msgid_plural "%s pending comments"
+msgstr[0] "%s pending comment"
+msgstr[1] "%s pending comments"
+
+#: ../includes/ui/class-wp-list-table.php:631,
+#: ../includes/ui/class-wp-list-table.php:643,
+#: ../includes/ui/class-wp-list-table.php:656 loco:5b6d4f67a08ef1676472daaf
+msgid "No comments"
+msgstr "No comments"
+
+#: ../includes/ui/class-wp-list-table.php:643 loco:5b6d4f67a08ef1676472dab0
+msgid "No approved comments"
+msgstr "No approved comments"
+
+#: ../includes/ui/class-wp-list-table.php:656 loco:5b6d4f67a08ef1676472dab1
+msgid "No pending comments"
+msgstr "No pending comments"
+
+#: ../includes/ui/class-wp-list-table.php:730,
+#: ../includes/ui/class-wp-list-table.php:1299 loco:5b6d4f67a08ef1676472dab2
+#, php-format
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] "%s item"
+msgstr[1] "%s items"
+
+#: ../includes/ui/class-wp-list-table.php:766 loco:5b6d4f67a08ef1676472dab4
+msgid "First page"
+msgstr "First page"
+
+#: ../includes/ui/class-wp-list-table.php:776 loco:5b6d4f67a08ef1676472dab5
+msgid "Previous page"
+msgstr "Previous page"
+
+#: ../includes/ui/class-wp-list-table.php:783,
+#: ../includes/ui/class-wp-list-table.php:786 loco:5b6d4f67a08ef1676472dab6
+msgid "Current Page"
+msgstr "Current Page"
+
+#: ../includes/ui/class-wp-list-table.php:792 loco:5b6d4f67a08ef1676472dab7
+#, php-format
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr "%1$s of %2$s"
+
+#: ../includes/ui/class-wp-list-table.php:799 loco:5b6d4f67a08ef1676472dab8
+msgid "Next page"
+msgstr "Next page"
+
+#: ../includes/ui/class-wp-list-table.php:809 loco:5b6d4f67a08ef1676472dab9
+msgid "Last page"
+msgstr "Last page"
+
+#: ../includes/ui/class-wp-list-table.php:1029 loco:5b6d4f67a08ef1676472daba
+msgid "Select All"
+msgstr "Select All"
+
+#: ../includes/utils/class-utils.php:193 loco:5b6d4f67a08ef1676472dabb
+msgid "Install the WordPress importer plugin"
+msgstr "Install the WordPress importer plugin"
+
+#: ../includes/utils/class-utils.php:223 loco:5b6d4f67a08ef1676472dabc
+msgid "Can't delete Frontend editor elements"
+msgstr "Can't delete Frontend editor elements"
+
+#: ../includes/misc/woo-functions.php:55 loco:5b6d6590a08ef16e472f8912
+msgctxt "breadcrumb"
+msgid "Shop"
+msgstr "Shop"
+
+#. translators: %d: total results
+#: ../includes/misc/woo-functions.php:103 loco:5b6d6590a08ef16e472f8913
+msgid "Showing the single result"
+msgid_plural "Showing all %d results"
+msgstr[0] "Showing the single result"
+msgstr[1] "Showing all %d results"
+
+#. translators: 1: first result 2: last result 3: total results
+#: ../includes/misc/woo-functions.php:108 loco:5b6d6590a08ef16e472f8915
+msgctxt "with first and last result"
+msgid "Showing the single result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] "Showing the single result"
+msgstr[1] "Showing %1$d&ndash;%2$d of %3$d results"
+
+#: ../includes/misc/woo-functions.php:118 loco:5b6d6590a08ef16e472f8917
+msgid "Default sorting"
+msgstr "Default sorting"
+
+#: ../includes/misc/woo-functions.php:119 loco:5b6d6590a08ef16e472f8918
+msgid "Sort by popularity"
+msgstr "Sort by popularity"
+
+#: ../includes/misc/woo-functions.php:120 loco:5b6d6590a08ef16e472f8919
+msgid "Sort by average rating"
+msgstr "Sort by average rating"
+
+#: ../includes/misc/woo-functions.php:121 loco:5b6d6590a08ef16e472f891a
+msgid "Sort by newness"
+msgstr "Sort by newness"
+
+#: ../includes/misc/woo-functions.php:122 loco:5b6d6590a08ef16e472f891b
+msgid "Sort by price: low to high"
+msgstr "Sort by price: low to high"
+
+#: ../includes/misc/woo-functions.php:123 loco:5b6d6590a08ef16e472f891c
+msgid "Sort by price: high to low"
+msgstr "Sort by price: high to low"
+
+#: ../includes/misc/woo-functions.php:128 loco:5b6d6590a08ef16e472f891d
+msgid "Relevance"
+msgstr "Relevance"
+
+#: ../includes/misc/woo-functions.php:346 loco:5b6d6590a08ef16e472f891e
+msgid "SKU:"
+msgstr "SKU:"
+
+#: ../includes/misc/woo-functions.php:346 loco:5b6d6590a08ef16e472f891f
+msgid "N/A"
+msgstr "N/A"
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:134
+#: loco:5b6d6590a08ef16e472f8924
+msgid " name"
+msgstr " name"
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:137
+#: loco:5b6d6590a08ef16e472f8925
+msgid " with commas"
+msgstr " with commas"
+
+#: ../includes/plugins/customtypes/class-customtypes-configuration.php:140
+#: loco:5b6d6590a08ef16e472f8926
+msgid " found"
+msgstr " found"
+
+#: ../includes/plugins/form/class-ajax.php:37 loco:5b6d6590a08ef16e472f8927
+msgid ":"
+msgstr ":"
+
+#: ../includes/plugins/rules/rule/class-rule-woo-has-user-purchased.php:23
+#: loco:5b6d6590a08ef16e472f892c
+msgid "[WOO] User Har Purchased"
+msgstr "[WOO] User Har Purchased"
+
+#: ../includes/plugins/rules/rule/class-rule-woo-products.php:22
+#: loco:5b6d6590a08ef16e472f892d
+msgid "[WOO] Products"
+msgstr "[WOO] Products"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-woocommerce.php:29
+#: loco:5b6d6590a08ef16e472f892e
+msgid "Use the parent category template for shop subcategories"
+msgstr "Use the parent category template for shop subcategories"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-woocommerce.php:35
+#: loco:5b6d6590a08ef16e472f892f
+msgid ""
+"Display shop categories in archive page (Webflow \"shop categories\" element "
+"required)"
+msgstr ""
+"Display shop categories in archive page (Webflow \"shop categories\" element "
+"required)"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-woocommerce.php:33
+#: loco:5b6d6590a08ef16e472f8930
+msgid "Shop Page Title"
+msgstr "Shop Page Title"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-woocommerce.php:35
+#: loco:5b6d6590a08ef16e472f8931
+msgid "Tag Pre-Title"
+msgstr "Tag Pre-Title"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-woocommerce.php:37
+#: loco:5b6d6590a08ef16e472f8932
+msgid "Category Pre-Title"
+msgstr "Category Pre-Title"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-woocommerce.php:40
+#: loco:5b6d6590a08ef16e472f8933
+msgid "Woocommerce"
+msgstr "Woocommerce"
+
+#: ../includes/plugins/rules/rule/class-rule-woo-has-subcategories.php:22
+#: loco:5b87ea4b7ec8ae3d335b69d2
+msgid "[WOO] Has Subcategories"
+msgstr "[WOO] Has Subcategories"
+
+#: ../includes/plugins/rules/rule/class-rule-woo-is-category.php:22
+#: loco:5b87ea4b7ec8ae3d335b69d3
+msgid "[WOO] is category"
+msgstr "[WOO] is category"
+
+#: ../includes/plugins/rules/rule/class-rule-woo-is-tag.php:22
+#: loco:5b87ea4b7ec8ae3d335b69d4
+msgid "[WOO] is tag"
+msgstr "[WOO] is tag"
+
+#: ../includes/misc/edd-functions.php:19 loco:5b993571a08ef175c3022054
+msgid "$shop_title"
+msgstr "$shop_title"
+
+#: ../includes/misc/edd-functions.php:22, ../includes/misc/edd-functions.php:26
+#: loco:5b993571a08ef175c3022055
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-edd.php:29
+#: loco:5b993571a08ef175c3022056
+msgid "Edd slug"
+msgstr "Edd slug"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-edd.php:29
+#: loco:5b993571a08ef175c3022057
+msgid ""
+"This constant allows you to change the post type slug of the download post "
+"type."
+msgstr ""
+"This constant allows you to change the post type slug of the download post "
+"type."
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-edd.php:37
+#: loco:5b993571a08ef175c3022058
+msgid ""
+"Display edd categories in downloads archive page (Webflow \"archive "
+"categories\" element required)"
+msgstr ""
+"Display edd categories in downloads archive page (Webflow \"archive "
+"categories\" element required)"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-edd.php:41
+#: loco:5b993571a08ef175c3022059
+msgid "Easy digital downloads category title"
+msgstr "Easy digital downloads category title"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-edd.php:43
+#: loco:5b993571a08ef175c302205a
+msgid "Easy digital downloads tag title"
+msgstr "Easy digital downloads tag title"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-edd.php:45
+#: loco:5b993571a08ef175c302205b
+msgid "Easy digital downloads author title"
+msgstr "Easy digital downloads author title"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-edd.php:47
+#: loco:5b993571a08ef175c302205c
+msgid "Easy digital downloads archive title"
+msgstr "Easy digital downloads archive title"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-edd.php:49
+#: loco:5b993571a08ef175c302205d
+msgid "Easy Digital Downloads"
+msgstr "Easy Digital Downloads"
+
+#: ../includes/utils/class-utils.php:196 loco:5ba3b28f72c2c945de48c322
+msgid ""
+"The udesly_exported_pages.xml file is missing. Did you activate the exported "
+"theme ?"
+msgstr ""
+"The udesly_exported_pages.xml file is missing. Did you activate the exported "
+"theme ?"
+
+#: ../includes/utils/class-utils.php:237 loco:5ba3b28f72c2c945de48c323
+msgid ""
+"The udesly_exported_data.json file is missing. Did you activate the exported "
+"theme ?"
+msgstr ""
+"The udesly_exported_data.json file is missing. Did you activate the exported "
+"theme ?"
+
+#: ../includes/plugins/contentmanager/contents/class-content-manager.php:135
+#: loco:5ba3b28f72c2c945de48c324
+msgid "You need to import the pages"
+msgstr "You need to import the pages"
+
+#: ../includes/plugins/contentmanager/contents/class-content-manager.php:135,
+#: ../includes/plugins/contentmanager/contents/class-content-manager.php:143,
+#: ../includes/plugins/contentmanager/contents/class-content-manager.php:151
+#: loco:5ba3b28f72c2c945de48c325
+msgid "go to Udesly => Import from Webflow => Webflow data."
+msgstr "go to Udesly => Import from Webflow => Webflow data."
+
+#: ../includes/plugins/contentmanager/contents/class-content-manager.php:143
+#: loco:5ba3b28f72c2c945de48c326
+msgid ""
+"Did you convert and used more then one udesly theme? Maybe you need to clean "
+"the database from old frontend editor data"
+msgstr ""
+"Did you convert and used more then one udesly theme? Maybe you need to clean "
+"the database from old frontend editor data"
+
+#: ../includes/plugins/contentmanager/contents/class-content-manager.php:151
+#: loco:5ba3b28f72c2c945de48c327
+msgid "You need to import the frontend editor data"
+msgstr "You need to import the frontend editor data"
+
+#: ../includes/plugins/contentmanager/settings/class-settings-manager.php:207
+#: loco:5ba3b28f72c2c945de48c328
+msgid " Email setting errors:"
+msgstr " Email setting errors:"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-email.php:30
+#: loco:5ba3b28f72c2c945de48c329
+msgid "General form email settings"
+msgstr "General form email settings"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-email.php:32
+#: loco:5ba3b28f72c2c945de48c32a
+msgid "Email Recipient"
+msgstr "Email Recipient"
+
+#: ../includes/plugins/contentmanager/settings/tabs/class-tab-settings-email.php:34
+#: loco:5ba3b28f72c2c945de48c32b
+msgid "Email CC (comma separated)"
+msgstr "Email CC (comma separated)"
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:47
+#: loco:5ba3b28f72c2c945de48c32c
+msgid "Click to clean unused frontend editor elements"
+msgstr "Click to clean unused frontend editor elements"
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:49
+#: loco:5ba3b28f72c2c945de48c32d
+msgid "Delete unused frontend editor elements"
+msgstr "Delete unused frontend editor elements"
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:67
+#: loco:5ba3b28f72c2c945de48c32e
+msgid "Frontend editor elements cleaned succesfully"
+msgstr "Frontend editor elements cleaned succesfully"
+
+#: ../includes/plugins/contentmanager/settings/webflowtabs/class-webflowtab-import-data.php:68
+#: loco:5ba3b28f72c2c945de48c32f
+msgid "Can't clean frontend editor elements "
+msgstr "Can't clean frontend editor elements "

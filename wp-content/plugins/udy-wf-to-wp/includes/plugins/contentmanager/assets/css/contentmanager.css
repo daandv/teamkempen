@@ -1,0 +1,19 @@
+#udesly_contentmanager_settings form{
+    margin-top: 25px;
+}
+#udesly_contentmanager_settings .cdg-woo-kit-panel{
+    padding: 40px;
+}
+
+.udesly_import_data_btn {
+    background-color: transparent!important;
+    border: none!important;
+    line-height: 26px!important;
+    height: 26px!important;
+    color: rgba(240,245,250,.7)!important;
+}
+
+.udesly_import_data_btn:hover {
+    color: #00b9eb!important;
+    cursor: pointer;
+}

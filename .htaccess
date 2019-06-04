@@ -1,0 +1,14 @@
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteRule ^^ical/([0-9]+)/? /https://1819.kempen.po2.mtantwerp.eu/wp-admin/index.php?latepoint_is_custom_route=true&route_name=bookings__ical_downloadlatepoint_booking_id=$matches[1] [QSA,L]
+RewriteRule ^^agent-login/? /https://1819.kempen.po2.mtantwerp.eu/wp-admin/index.php?latepoint_is_custom_route=true&route_name=agents__login_form [QSA,L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress

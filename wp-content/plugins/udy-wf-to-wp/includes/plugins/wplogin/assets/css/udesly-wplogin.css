@@ -1,0 +1,9 @@
+form[udesly-wp-ajax="register"] input[type="submit"]:disabled, form[udesly-wp-ajax="reset-password"] input[type="submit"]:disabled{
+    opacity: 0.7;
+    cursor: not-allowed;
+}
+
+input.udesly-error{
+    border-color: red !important;
+    color: red;
+}

@@ -1,0 +1,14 @@
+.elementor-333 .elementor-element.elementor-element-011e7d7{text-align:left;}.elementor-333 .elementor-element.elementor-element-011e7d7.elementor-widget-heading .elementor-heading-title{color:#00b2e2;}.elementor-333 .elementor-element.elementor-element-011e7d7 .elementor-heading-title{font-family:"kdg regular";font-size:45px;line-height:0.1em;}.elementor-333 .elementor-element.elementor-element-011e7d7 > .elementor-widget-container{padding:60px 0px 0px 40px;}.elementor-333 .elementor-element.elementor-element-3e47e1c5{font-family:"kdg proxima";font-size:16px;line-height:0.1em;letter-spacing:-0.1px;}.elementor-333 .elementor-element.elementor-element-3e47e1c5 > .elementor-widget-container{margin:0px 0px -20px 0px;padding:020px 0px 60px 40px;}.elementor-333 .elementor-element.elementor-element-1b8dcc9 > .elementor-widget-container{padding:40px 40px 40px 40px;}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'kdg regular';
+	font-style: normal;
+	font-weight: normal;
+	src: url('https://1819.kempen.po2.mtantwerp.eu/wp-content/uploads/2019/05/KdG-Regular-1.woff') format('woff');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'kdg proxima';
+	font-style: normal;
+	font-weight: normal;
+	src: url('https://1819.kempen.po2.mtantwerp.eu/wp-content/uploads/2019/05/ProximaNova-Regular.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */

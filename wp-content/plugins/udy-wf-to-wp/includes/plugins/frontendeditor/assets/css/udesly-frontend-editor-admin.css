@@ -1,0 +1,19 @@
+.udesly-button-danger {
+    background: #dc3232 !important;
+    border-color: #A82929 #A82929 #A82929 !important;
+    box-shadow: 0 1px 0 #A82929 !important;
+    color: #fff !important;
+    text-decoration: none !important;
+    text-shadow: 0 -1px 1px #A82929, 1px 0 1px #A82929, 0 1px 1px #A82929, -1px 0 1px #A82929 !important;
+}
+
+.udesly-button-danger:active {
+    background: #b02525 !important;
+    border-color: #b02525 !important;
+    box-shadow: inset 0 2px 0 #b02525 !important;
+    vertical-align: top;
+}
+
+/*.udesly-hide-msg{*/
+    /*display: none;*/
+/*}*/
